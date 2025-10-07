@@ -15,7 +15,7 @@ For homework:
 :::caution **IMPORTANT**
 
 The repository must be created in the [
-FESB Distributed Systems 2024/25 Organisation](https://github.com/fesb-distributed-systems-2024)
+FESB Distributed Systems 2025/26 Organisation](https://github.com/fesb-distributed-systems-2025)
 
 :::
 
@@ -50,6 +50,6 @@ All changes must be done on `development` branch!
    
 :::tip **NOTE**
 
-If the PR is rejected, read the comments made by the assistant (`pkaselj`) and fix issues before **submitting the PR again - do not merge if the PR is rejected**
+If the PR is rejected, read the comments made by the assistant (`Zeljko9999`) and fix issues before **submitting the PR again - do not merge if the PR is rejected**
 
 :::
