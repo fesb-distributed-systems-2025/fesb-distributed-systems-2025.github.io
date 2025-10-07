@@ -1,11 +1,11 @@
 # Preparation
 
-# Lab 2: Threads
+# Lab 1: Threads
 
 ## Table of Contents
 
 - [Preparation](#preparation)
-- [Lab 2: Threads](#lab-2-threads)
+- [Lab 1: Threads](#lab-1-threads)
   - [Table of Contents](#table-of-contents)
   - [**Step 1: Prepare VS Code for C# Development**](#step-1-prepare-vs-code-for-c-development)
 

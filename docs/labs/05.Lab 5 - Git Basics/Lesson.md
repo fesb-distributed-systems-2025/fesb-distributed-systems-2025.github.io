@@ -1,10 +1,10 @@
 # Lesson
-# Lab 1: Git Basics
+# Lab 5: Git Basics
 
 ## Table of Contents
 
 - [Lesson](#lesson)
-- [Lab 1: Git Basics](#lab-1-git-basics)
+- [Lab 5: Git Basics](#lab-5-git-basics)
   - [Table of Contents](#table-of-contents)
   - [**Exercise 1: Creating GitHub Repository**](#exercise-1-creating-github-repository)
   - [**Exercise 2: Cloning Remote Git Repository**](#exercise-2-cloning-remote-git-repository)
@@ -22,8 +22,8 @@
 
 ## **Exercise 1: Creating GitHub Repository**
 
-To create remote repository on github first go to your account or organization (ex: <https://github.com/fesb-distributed-systems-2024> )
-and press Create a new repository button (<https://github.com/organizations/fesb-distributed-systems-2024/repositories/new> )
+To create remote repository on github first go to your account or organization (ex: <https://github.com/fesb-distributed-systems-2025> )
+and press Create a new repository button (<https://github.com/organizations/fesb-distributed-systems-2025/repositories/new> )
 
 ![github-organization](./github-organization.png)
 

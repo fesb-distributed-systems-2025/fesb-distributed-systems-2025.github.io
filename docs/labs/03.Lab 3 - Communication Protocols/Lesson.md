@@ -1,10 +1,10 @@
 # Lesson
-# Lab 4: Communication Protocols
+# Lab 3: Communication Protocols
 
 ## **Table of Contents**
 
 - [Lesson](#lesson)
-- [Lab 4: Communication Protocols](#lab-4-communication-protocols)
+- [Lab 3: Communication Protocols](#lab-3-communication-protocols)
   - [**Table of Contents**](#table-of-contents)
     - [**Objectives**](#objectives)
   - [**Exercise 1: Creating listener socket**](#exercise-1-creating-listener-socket)

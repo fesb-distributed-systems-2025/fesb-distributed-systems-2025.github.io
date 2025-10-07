@@ -1,10 +1,10 @@
 # Lesson
-# Lab 3: Synchronization
+# Lab 2: Synchronization
 
 ## Table Of Contents
 
 - [Lesson](#lesson)
-- [Lab 3: Synchronization](#lab-3-synchronization)
+- [Lab 2: Synchronization](#lab-2-synchronization)
   - [Table Of Contents](#table-of-contents)
   - [**Exercise 1: Utilizing Multiple Cores**](#exercise-1-utilizing-multiple-cores)
     - [**Create a Project**](#create-a-project)

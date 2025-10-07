@@ -1,10 +1,10 @@
 # Lesson
-# Lab 5: HTTP Programming
+# Lab 4: HTTP Programming
 
 ## **Table of Contents**
 
 - [Lesson](#lesson)
-- [Lab 5: HTTP Programming](#lab-5-http-programming)
+- [Lab 4: HTTP Programming](#lab-4-http-programming)
   - [**Table of Contents**](#table-of-contents)
     - [**Objectives**](#objectives)
     - [**Requirements**](#requirements)
