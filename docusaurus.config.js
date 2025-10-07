@@ -78,7 +78,7 @@ const config = {
             label: 'Notes'
           },
           {
-            href: 'https://github.com/fesb-distributed-systems-2024/fesb-distributed-systems-2024.github.io',
+            href: 'https://github.com/fesb-distributed-systems-2025/fesb-distributed-systems-2025.github.io',
             label: 'GitHub',
             position: 'right',
           },

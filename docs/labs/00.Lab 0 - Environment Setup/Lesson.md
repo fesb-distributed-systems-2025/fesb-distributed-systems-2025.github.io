@@ -24,7 +24,7 @@
 
 To successfully work and complete the lab assignments for the *Distributed Systems* and *Software Engineering* courses, a student **MUST** have following installed on his/her personal computer:
 
-- Visual Studio 2022 Community Edition ([Link](https://visualstudio.microsoft.com/vs/))
+- Visual Studio 2022 Community Edition ([Link](https://visualstudio.microsoft.com/vs/)) - required .NET version 6 or newer
 - Git ([Link](https://git-scm.com/downloads))
 - Personal GitHub account ([Link](https://github.com/))
 
@@ -184,7 +184,7 @@ To edit code we can use any text editor, but using specialized software like `Vi
 
 ### Installing and testing .NET SDK
 
-To build and run C# applications, we need a *.NET SDK - Software Development Kit*. To install `.NET 8 SDK` go to the [Official .NET 8 SDK Website](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and download the `SDK 8.0.403 version` (as seen in image below).
+To build and run C# applications, we need a *.NET SDK - Software Development Kit*. To install `.NET 8 SDK` go to the [Official .NET 8 SDK Website](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and download the `SDK version 8 or bigger (it is not important if version is 8.0 or maybe 8.1 - recommended: install newer)` (as seen in image below).
 
 ![net-sdk](./net-sdk.PNG)
 
@@ -216,4 +216,4 @@ But if the commands throws an error or **shows a different** version, please del
    
 # Conclusion
 
-If you have successfully finished all installations, you can proceed with the lab exercises, but if you encounter any errors, please refer to the assistant for help at `petar.kaselj.00@fesb.hr`.
+If you have successfully finished all installations, you can proceed with the lab exercises, but if you encounter any errors, please refer to the assistant for help at `zkalaj00@fesb.hr`.
