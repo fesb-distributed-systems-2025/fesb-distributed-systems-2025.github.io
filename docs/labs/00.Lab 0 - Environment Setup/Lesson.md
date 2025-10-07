@@ -97,7 +97,7 @@ To generate ssh keys, open `powershell` and execute the following command in you
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-and press enter for all options (leave the password blank)
+and press enter for all options (leave the file name and password blank)
 
 ![shh-keygen](./ssh-keygen.png)
 
