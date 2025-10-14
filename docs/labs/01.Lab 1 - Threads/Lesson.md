@@ -576,7 +576,7 @@ class Program
             Thread.Sleep(1000);
         }
 
-        Console.WriteLine("Action interrupted!");
+        Console.WriteLine("Action done!");
     }
 
     private static void DoVeryLongAction_ThrowException(CancellationToken token)
@@ -642,9 +642,7 @@ In this exercise you will create threads that will execute shared code which exe
 
 Each thread can have an assigned priority which is relative to the process priority.
 
-Here is the UML class diagram of the classes you will implement:
-
-![provoking-races-uml](provokign-races-uml.png)
+The program behaves unpredictably because thread which gets to the resource first — determines the result.
 
 ### **Creating Project**
 
