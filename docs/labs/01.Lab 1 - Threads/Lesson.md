@@ -840,9 +840,7 @@ class Program
         var tasks = new List<Task>();
         for (int i = 0; i < NumberOfIterations; i++)
         {
-            var task = new Task(async () => await AsyncWork());
-            task.Start();
-            tasks.Add(task);
+            tasks.Add(AsyncWork());
         }
         await Task.WhenAll(tasks);
     }
