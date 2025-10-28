@@ -1,10 +1,10 @@
 # Controller Example
-# Lab 4: HTTP Programming
+# Lab 5: HTTP Programming
 
 ## **Table of Contents**
 
 - [Controller Example](#controller-example)
-- [Lab 4: HTTP Programming](#lab-4-http-programming)
+- [Lab 5: HTTP Programming](#lab-5-http-programming)
   - [**Table of Contents**](#table-of-contents)
     - [**StudentController.cs**](#studentcontrollercs)
 

@@ -1,4 +1,4 @@
-# Distributed Information Systems
+# Distributed Information Systems & Software engineering
 
 ## Project
 - [**Phase 1**](01.Phase%201/Homework.md)

@@ -1,10 +1,10 @@
 # Lesson
-# Lab 5: Git Basics
+# Lab 4: Git Basics
 
 ## Table of Contents
 
 - [Lesson](#lesson)
-- [Lab 5: Git Basics](#lab-5-git-basics)
+- [Lab 4: Git Basics](#lab-4-git-basics)
   - [Table of Contents](#table-of-contents)
   - [**Exercise 1: Creating GitHub Repository**](#exercise-1-creating-github-repository)
   - [**Exercise 2: Cloning Remote Git Repository**](#exercise-2-cloning-remote-git-repository)
@@ -27,7 +27,7 @@ and press Create a new repository button (<https://github.com/organizations/fesb
 
 ![github-organization](./github-organization.png)
 
-Repository name should follow pattern: `{your-username}-lab-{lab-number}` (ex: `ipazanin-lab-01`) for lab exercises and `{your-username}-hw-{hw-number}` (ex: `ipazanin-hw-01`) for homework assignments.
+Repository name should follow pattern: `{your-username}-lab-{lab-number}` (ex: `zkalaj-lab-04`) for lab exercises and `{your-username}-hw-{hw-number}` (ex: `zkalaj-hw-04`) for homework assignments.
 
 If the repository is not a part of lab practice: `{your-username}-{project-name}` (ex: `nknezovic-mothers-project`)
 

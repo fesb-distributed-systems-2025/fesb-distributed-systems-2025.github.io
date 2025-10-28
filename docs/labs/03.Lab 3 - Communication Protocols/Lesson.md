@@ -264,6 +264,7 @@ Hello world!
 
 ### **Simple HTTP Server:**
 
+- Use previous code
 - Modify Socket server to return valid HTTP response by returning as response:
 
 ```csharp
@@ -275,7 +276,7 @@ var httpResponse = $"{statusLine}{responseHeader}\r\n{responseBody}";
 
 - Start server
 - Using browser access server via address `http:\\localhost:8000`
-- You should se following as output
+- You should see following as output:
 
 ![server output](server-example-2-output.png)
 

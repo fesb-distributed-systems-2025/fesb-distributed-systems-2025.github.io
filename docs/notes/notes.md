@@ -1,4 +1,4 @@
-# Distributed Information Systems
+# Distributed Information Systems & Software engineering
 
 ## Notes
 - [**Coding Convention**](Coding%20Conventions/Coding%20Convention.md)
