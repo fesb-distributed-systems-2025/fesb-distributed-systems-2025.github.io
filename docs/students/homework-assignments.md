@@ -25,7 +25,7 @@
 
 ## Homework 1
 
-Task [link](../../labs/04.Lab 4 - Git Basics/Homework)
+Task [link](../../labs/04.Lab%204%20-%20Git%20Basics/Homework)
 
 ### [hw1-josip-bajic] - 1
 - **Project Task:** University
