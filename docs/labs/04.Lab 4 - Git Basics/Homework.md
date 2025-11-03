@@ -42,6 +42,7 @@ Author: {your-username}
 7. If you don't have .gitignore file in your cloned repository create it locally. If have in cloned repo use it.
 
 8. Your .gitignore file must be same as .gitignore file in this repo: https://github.com/fesb-distributed-systems-2025/original-lab-01
+
 :::caution **IMPORTANT**
 
 All changes must be done on `development` branch!y
