@@ -56,9 +56,9 @@
 
 ### **2.4. Applying Changes to the `main` Branch**
 1. On GitHub, create a *Pull Request* from `development` to `main` branch
-   - Set `pkaselj` as reviewer
-   - **Do not merge before `pkaselj` approves the PR**
-2. Wait for `pkaselj`'s approval
+   - Set `Zeljko9999` as reviewer
+   - **Do not merge before `Zeljko9999` approves the PR**
+2. Wait for `Zeljko9999`'s approval
 3. If **APPROVED**, go ahead and merge the PR
 4. If **REJECTED**, fix errors/comments as described in [`Making Changes`](#making-changes)
 

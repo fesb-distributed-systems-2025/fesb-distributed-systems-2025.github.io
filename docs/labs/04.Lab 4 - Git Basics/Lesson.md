@@ -22,14 +22,17 @@
 
 ## **Exercise 1: Creating GitHub Repository**
 
-To create remote repository on github first go to your account or organization (ex: <https://github.com/fesb-distributed-systems-2025> )
+To create remote repository on github first go to your account or organization (<https://github.com/fesb-distributed-systems-2025> )
 and press Create a new repository button (<https://github.com/organizations/fesb-distributed-systems-2025/repositories/new> )
 
 ![github-organization](./github-organization.png)
 
-Repository name should follow pattern: `{your-username}-lab-{lab-number}` (ex: `zkalaj-lab-04`) for lab exercises and `{your-username}-hw-{hw-number}` (ex: `zkalaj-hw-04`) for homework assignments.
+Repository name should follow pattern: `{your-username}-project-{project-name}` (e.g. `Zeljko9999-project-factory`) for lab/project exercises.
+:::info **NOTE**
 
-If the repository is not a part of lab practice: `{your-username}-{project-name}` (ex: `nknezovic-mothers-project`)
+In these labs you will have only one repository during the semester. Exceptions are possible.
+
+:::
 
 Description is optional, **repository must be PRIVATE**, and finally initialize repository by adding README file, adding .gitignore (VisualStudio).
 
@@ -37,18 +40,21 @@ Description is optional, **repository must be PRIVATE**, and finally initialize 
 
 ## **Exercise 2: Cloning Remote Git Repository**
 
-To clone remote repository go to created repository on github and press Code > SSH and copy contents.
+To clone remote repository go to created repository on github and press Code > SSH and copy contents. If SSH doesen't works copy HTTPS.
 
 ![github-clone-ssh](./github-clone-ssh.png)
 
-Open terminal on desired file system location and use command:
+Open git bash terminal on desired file system location and use command:
 
-`git-clone {your-repository}` (ex: `git-clone git@github.com:fesb-distributed-systems-2021/ipazanin-lab-01.git`)
+`git clone {your-repository}` (e-g. `git-clone git@github.com:fesb-distributed-systems-2021/ipazanin-lab-01.git`)
 
-and now you can open cloned repository with Visual Studio Code using:
-`code {your-repository-name}` (ex: `code ipazanin-lab-01`)
+and now you can open cloned repository with Visual Studio:
 
-![vscode-project](./vscode-project.png)
+1. Open Visual Studio.
+
+2. Go to File → Open → Project/Solution.
+
+3. Navigate to your cloned repo’s folder and open the .sln file (if it exists) (e.g. C:\Users\you\source\repos\original-lab-01\original-lab-01.sln).
 
 You can learn more about .gitignore file on link <https://git-scm.com/docs/gitignore>
 
@@ -121,6 +127,17 @@ git commit -m "Added a new button to print the report as PDF."
 
 ![git-commit](./git-commit.png)
 
+:::caution **IMPORTANT**
+
+**Commit messages must contain homework notation** i.e. if you are doing HW01 then commit message should be: HW01-added readme file.
+If you have more commits in one homework then each commit message should have same notation. E.g.
+Commit 1: HW01-added readme file
+Commit 2: HW01-edit gitignore file
+Commit 3: HW01-inital callback function implementation
+
+:::
+
+
 ### **Step 3 - Push Changes to the Remote Repository**
    - Git (specifically `git clone <repo-url>`) works by creating a **copy** of a remote repository located at `<repo-url>` e.g. on GitHub.
    - All changes *stashed* and *commited* are only visible **only** on the copy (called the local repository) of the remote repository.
@@ -177,9 +194,9 @@ Code development is never done on the main branch (you can checkout to the new b
 To create new branch and change git to that branch use:
 
 `git checkout -b {your-branch-name}`
-(ex: `git checkout -b development`)
+(e.g. `git checkout -b dev`)
 
-Until you know what you are doing, I recommend doing development on branch `development`.
+Until you know what you are doing, I recommend doing development on branch `dev`.
 
 ```shell
 git status
@@ -187,12 +204,12 @@ git status
 
 ![git-checkout-branch](./git-checkout-branch.png)
 
-After making changes on the `development` branch, *stash, commit* and *push* the changes from the `development` branch to the remote repository, as described in  [Exercise 3: Adding, Committing and Pushing Code to Remote Repository](#exercise-3-adding-committing-and-pushing-code-to-remote-repository)
+After making changes on the `dev` branch, *stash, commit* and *push* the changes from the `dev` branch to the remote repository, as described in  [Exercise 3: Adding, Committing and Pushing Code to Remote Repository](#exercise-3-adding-committing-and-pushing-code-to-remote-repository)
 
 
 ### **Creating Pull Request**
 
-Once you are satisfied with code on your `development` branch, you can create **pull request** (PR) on the `main` branch.
+Once you are satisfied with code on your `dev` branch, you can create **pull request** (PR) on the `main` branch.
 
 Pull requests will merge changes to the main branch to sync their code.
 
@@ -206,11 +223,11 @@ And create new pull request by pressing new pull request.
 
 ![github-pull-request-changes](./github-pull-request-changes.png)
 
-Before you finish creating pull requests, add **pkaselj** as reviewer. (**NOT nknezovic** as in picture below)
+Before you finish creating pull requests, add **Zeljko9999** as reviewer. (**NOT nknezovic** as in picture below)
 
 ![github-pull-request-reviewer](./github-pull-request-reviewer.png)
 
-**AFTER pkaselj** has approved your pull request, you can merge it using button.
+**AFTER Zeljko9999** has approved your pull request, you can merge it using button.
 
 ![github-pull-request-approve](./github-pull-request-approve.png)
 

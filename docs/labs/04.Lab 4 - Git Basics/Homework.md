@@ -19,9 +19,9 @@ FESB Distributed Systems 2025/26 Organisation](https://github.com/fesb-distribut
 
 :::
 
-1. Create a *GitHub* repository named `{your-username}-hw-01`s
+1. Create a *GitHub* repository named `{your-username}-project-{project-name}`s - find your project [here](./docs\students\homework-assignments)
 2. Clone the repository as shown in the [Lesson](./Lesson)
-3. Create a `development` branch
+3. Create a `dev` branch
 4. Create a *readme file* called *README.md*
 
 :::tip **NOTE**
@@ -38,15 +38,18 @@ Hello, World!
 Author: {your-username}
 ```
 6. Stage, commit and push the changes to the remote repository.
-   
+
+7. If you don't have .gitignore file in your cloned repository create it locally. If have in cloned repo use it.
+
+8. Your .gitignore file must be same as .gitignore file in this repo: https://github.com/fesb-distributed-systems-2025/original-lab-01
 :::caution **IMPORTANT**
 
-All changes must be done on `development` branch!
+All changes must be done on `development` branch!y
 
 :::
 
-7. Create a pull request (PR) to merge `development` branch into `main`
-8. After the PR is approved, merge it.
+9. Create a pull request (PR) to merge `dev` branch into `main`
+10. After the PR is approved, merge it.
    
 :::tip **NOTE**
 
