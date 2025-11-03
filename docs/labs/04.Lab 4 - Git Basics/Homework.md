@@ -19,7 +19,7 @@ FESB Distributed Systems 2025/26 Organisation](https://github.com/fesb-distribut
 
 :::
 
-1. Create a *GitHub* repository named `{your-username}-project-{project-name}`s - find your project [here](./docs\students\homework-assignments)
+1. Create a *GitHub* repository named `{your-username}-project-{project-name}`s - find your project [here](../../students/homework-assignments)
 2. Clone the repository as shown in the [Lesson](./Lesson)
 3. Create a `dev` branch
 4. Create a *readme file* called *README.md*
