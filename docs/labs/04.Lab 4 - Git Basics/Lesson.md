@@ -129,13 +129,18 @@ git commit -m "Added a new button to print the report as PDF."
 
 :::caution **IMPORTANT**
 
-**Commit messages must contain homework notation** i.e. if you are doing HW01 then commit message should be: HW01-added readme file.
-If you have more commits in one homework then each commit message should have same notation. E.g.
-Commit 1: HW01-added readme file
-Commit 2: HW01-edit gitignore file
-Commit 3: HW01-inital callback function implementation
+**Commit messages must contain homework notation**  
+i.e. if you are doing HW01 then commit message should be:  
+`HW01-added readme file`.
+
+If you have more commits in one homework then each commit message should have same notation.  
+E.g.  
+- Commit 1: `HW01-added readme file`  
+- Commit 2: `HW01-edit gitignore file`  
+- Commit 3: `HW01-initial callback function implementation`
 
 :::
+
 
 
 ### **Step 3 - Push Changes to the Remote Repository**

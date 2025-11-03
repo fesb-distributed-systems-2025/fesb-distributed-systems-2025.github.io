@@ -37,7 +37,7 @@ Hello, World!
 ---
 Author: {your-username}
 ```
-6. Stage, commit and push the changes to the remote repository.
+6. Stage and commit changes.
 
 7. If you don't have .gitignore file in your cloned repository create it locally. If have in cloned repo use it.
 
@@ -45,12 +45,13 @@ Author: {your-username}
 
 :::caution **IMPORTANT**
 
-All changes must be done on `development` branch!y
+All changes must be done on `dev` branch!
 
 :::
 
-9. Create a pull request (PR) to merge `dev` branch into `main`
-10. After the PR is approved, merge it.
+9. Stage, commit and push the changes to the remote repository.
+10. Create a pull request (PR) to merge `dev` branch into `main`
+11. After the PR is approved, merge it.
    
 :::tip **NOTE**
 
