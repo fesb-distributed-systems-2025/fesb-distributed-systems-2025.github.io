@@ -57,9 +57,12 @@ Task [link](../../labs/04.Lab 4 - Git Basics/Homework)
 ### [hw1-josipa-macek] - 10
 - **Project Task:** Weather Station
 
-### [hw1-toni-misic] - 11
+### [hw1-josip-mandic] - 11
+- **Project Task:** School
+
+### [hw1-toni-misic] - 12
 - **Project Task:** Airport
 
-### [hw1-frane-rokov] - 12
+### [hw1-frane-rokov] - 13
 - **Project Task:** Shelter
 
