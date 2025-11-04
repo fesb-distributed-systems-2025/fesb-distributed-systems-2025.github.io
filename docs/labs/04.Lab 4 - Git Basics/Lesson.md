@@ -228,7 +228,7 @@ And create new pull request by pressing new pull request.
 
 ![github-pull-request-changes](./github-pull-request-changes.png)
 
-Before you finish creating pull requests, add **Zeljko9999** as reviewer. (**NOT nknezovic** as in picture below)
+Before you finish creating pull requests, add **Zeljko9999** as reviewer. (**NOT BJosip1** as in picture below)
 
 ![github-pull-request-reviewer](./github-pull-request-reviewer.png)
 
