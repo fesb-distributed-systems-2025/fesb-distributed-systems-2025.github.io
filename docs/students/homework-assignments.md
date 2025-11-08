@@ -2,9 +2,7 @@
 
 ## Table of Contents
 
-- [Homework Assignments](#homework-assignments)
-  - [Table of Contents](#table-of-contents)
-- [Homeworks](#homeworks)
+- [Homework tasks and grades](#homeworks)
   - [Homework 1](#homework-1)
     - [\[HW1\] Josip Bajić](#hw1-josip-bajic)
     - [\[HW1\] Marta Belas](#hw1-marta-belas)
@@ -21,48 +19,61 @@
     - [\[HW1\] Frane Rokov](#hw1-frane-rokov)
 
 
-# Homeworks
+# Homework tasks and grades
 
 ## Homework 1
 
 Task [link](/labs/04.Lab%204%20-%20Git%20Basics/Homework.md)
 
-### [hw1-josip-bajic] - 1
+### HW1 Josip Bajić {#hw1-josip-bajic}
 - **Project Task:** University
+grade: +
 
-### [hw1-marta-belas] - 2
+### HW1 Marta Belas {#hw1-marta-belas}
 - **Project Task:** Hospital
+grade:
 
-### [hw1-tomislav-brkan] - 3
+### HW1 Tomislav Brkan {#hw1-tomislav-brkan}
 - **Project Task:** Tire Shop
+grade:
 
-### [hw1-leonardo-ferri] - 4
+### HW1 Leonardo Ferri {#hw1-leonardo-ferri}
 - **Project Task:** Cinema
+grade:
 
-### [hw1-mateo-franjic] - 5
+### HW1 Mateo Franjić {#hw1-mateo-franjic}
 - **Project Task:** Library
+grade:
 
-### [hw1-lovre-gobin] - 6
+### HW1 Lovre Gobin {#hw1-lovre-gobin}
 - **Project Task:** Taxi Company
+grade:
 
-### [hw1-robert-ivasecko] - 7
+### HW1 Robert Ivasečko {#hw1-robert-ivasecko}
 - **Project Task:** Factory
+grade:
 
-### [hw1-lovre-klaric] - 8
+### HW1 Lovre Klarić {#hw1-lovre-klaric}
 - **Project Task:** City
+grade:
 
-### [hw1-marin-ljubica] - 9
+### HW1 Marin Ljubica {#hw1-marin-ljubica}
 - **Project Task:** Hotel
+grade:
 
-### [hw1-josipa-macek] - 10
+### HW1 Josipa Maček {#hw1-josipa-macek}
 - **Project Task:** Weather Station
+grade:
 
-### [hw1-josip-mandic] - 11
+### HW1 Josip Mandić {#hw1-josip-mandic}
 - **Project Task:** School
+grade:
 
-### [hw1-toni-misic] - 12
+### HW1 Toni Mišić {#hw1-toni-misic}
 - **Project Task:** Airport
+grade:
 
-### [hw1-frane-rokov] - 13
+### HW1 Frane Rokov {#hw1-frane-rokov}
 - **Project Task:** Shelter
+grade:
 
