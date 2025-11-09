@@ -32,8 +32,8 @@ The *readme file* is just a text file which uses [GitHub Markdown](https://docs.
 
 5. In the *readme file* write:
 ```md
-# {your-username}'s Repository
-Hello, World!
+
+Hello World!
 ```
 6. Stage and commit changes.
 

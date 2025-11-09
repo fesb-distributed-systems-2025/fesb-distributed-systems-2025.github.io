@@ -48,7 +48,7 @@ grade:
 ### HW1 Mateo Franjić {#hw1-mateo-franjic}
 - **Project Task:** Library
 
-grade:
+grade: +
 
 ### HW1 Lovre Gobin {#hw1-lovre-gobin}
 - **Project Task:** Taxi Company
@@ -78,12 +78,12 @@ grade:
 ### HW1 Josip Mandić {#hw1-josip-mandic}
 - **Project Task:** School
 
-grade:
+grade: +
 
 ### HW1 Toni Mišić {#hw1-toni-misic}
 - **Project Task:** Airport
 
-grade:
+grade: +
 
 ### HW1 Frane Rokov {#hw1-frane-rokov}
 - **Project Task:** Shelter
