@@ -1,10 +1,10 @@
 # Controller Example
-# Lab 5: HTTP Programming
+# Lab 6: Lab 6: Web API Design and Architecture
 
 ## **Table of Contents**
 
 - [Controller Example](#controller-example)
-- [Lab 5: HTTP Programming](#lab-5-http-programming)
+- [Lab 6: Web API Design and Architecture](#lab-6-web-api-design)
   - [**Table of Contents**](#table-of-contents)
     - [**StudentController.cs**](#studentcontrollercs)
 

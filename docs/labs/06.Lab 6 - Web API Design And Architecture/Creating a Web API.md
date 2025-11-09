@@ -4,7 +4,7 @@
 ## **Table of Contents**
 
 - [Creating a Web API](#creating-a-web-api)
-- [Lab 5: HTTP Programming](#lab-5-http-programming)
+- [Lab 6: Web API Design and Architecture](#lab-6-web-api-design)
   - [**Table of Contents**](#table-of-contents)
     - [**Creating a new Web API Project**](#creating-a-new-web-api-project)
     - [**Creating a new Controller**](#creating-a-new-controller)
