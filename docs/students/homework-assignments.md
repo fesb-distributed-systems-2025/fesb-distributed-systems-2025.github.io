@@ -33,17 +33,17 @@ grade: +
 ### HW1 Marta Belas {#hw1-marta-belas}
 - **Project Task:** Hospital
 
-grade:
+grade: +
 
 ### HW1 Tomislav Brkan {#hw1-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade:
+grade: +
 
 ### HW1 Leonardo Ferri {#hw1-leonardo-ferri}
 - **Project Task:** Cinema
 
-grade:
+grade: +
 
 ### HW1 Mateo Franjić {#hw1-mateo-franjic}
 - **Project Task:** Library
@@ -53,7 +53,7 @@ grade: +
 ### HW1 Lovre Gobin {#hw1-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade:
+grade: +
 
 ### HW1 Robert Ivasečko {#hw1-robert-ivasecko}
 - **Project Task:** Factory
@@ -68,12 +68,12 @@ grade:
 ### HW1 Marin Ljubica {#hw1-marin-ljubica}
 - **Project Task:** Hotel
 
-grade:
+grade: +
 
 ### HW1 Josipa Maček {#hw1-josipa-macek}
 - **Project Task:** Weather Station
 
-grade:
+grade: +
 
 ### HW1 Josip Mandić {#hw1-josip-mandic}
 - **Project Task:** School
@@ -88,5 +88,5 @@ grade: +
 ### HW1 Frane Rokov {#hw1-frane-rokov}
 - **Project Task:** Shelter
 
-grade:
+grade: +
 
