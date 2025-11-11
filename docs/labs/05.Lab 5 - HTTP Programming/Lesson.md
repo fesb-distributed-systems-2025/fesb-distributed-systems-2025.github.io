@@ -13,7 +13,10 @@
     - [**HTTP Status Codes**](#http-status-codes)
     - [**HTTP Methods**](#http-methods)
 
+### **Requirements**
 
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
+- [Postman application](https://www.postman.com/downloads/)
 
 ### **Objectives**
 
@@ -62,12 +65,6 @@ Content-Type: text/html
 
 Hello world!
 ```
-
-### **Requirements**
-
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download)
-- [Postman application](https://www.postman.com/downloads/)
-- [NodeJs](https://nodejs.org/en/)
 
 ## **Exercise 1: Manual REST API**
 
@@ -142,4 +139,64 @@ Usually HTTP request is unique by criteria
 
 - URL or path
 - Method
+
+There are four main ways to send parameters in an HTTP request, depending on the method (GET, POST, PUT, DELETE) and context:
+
+1. Query Parameters (URL Params)
+
+Where: In the URL, after a ?, joined by &.
+Used with: Usually GET, sometimes others.
+
+Example:
+```shell
+GET /users?name=John&age=25
+```
+Purpose: For filtering, searching, pagination — i.e. non-sensitive data.
+Sent: As part of the URL.
+
+2. Path Parameters
+
+Where: Embedded directly in the URL path.
+Used with: GET, PUT, DELETE, etc.
+
+Example:
+```shell
+GET /users/123
+PUT /users/123
+```
+Purpose: Identifies a specific resource (e.g. user with ID 123).
+Sent: As part of the endpoint structure (not in body or query).
+
+3. Request Body Parameters
+
+Where: In the body of the request.
+Used with: POST, PUT, PATCH mainly.
+
+Example (as JSON-JavaScript Object Notation):
+```shell
+POST /users
+Content-Type: application/json
+
+{
+  "name": "John",
+  "age": 25
+}
+```
+Purpose: Sending structured or large data (e.g., form submissions, file uploads).
+Sent: In the body, not visible in the URL.
+
+4. Header Parameters
+
+Where: In the HTTP headers.
+Used with: Any HTTP method.
+
+Example:
+```shell
+GET /users
+Authorization: Bearer abc123
+Content-Type: application/json
+}
+```
+Purpose: For metadata, authentication tokens, content type, etc.
+Sent: As part of the HTTP header section, separate from the URL and body.
 
