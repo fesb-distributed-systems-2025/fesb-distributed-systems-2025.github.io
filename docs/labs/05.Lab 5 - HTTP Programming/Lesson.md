@@ -121,7 +121,6 @@ Common status codes:
 | 404         | Not Found             |
 | 401         | Unauthorized          |
 | 403         | Forbidden             |
-| 404         | Not Found             |
 | 500         | Internal Server Error |
 | 501         | Not Implemented       |
 
@@ -129,16 +128,19 @@ Common status codes:
 
 | Method | HTTP Method | HTTP Response Status Codes |
 | ------ | ----------- | -------------------------- |
-| CREATE | POST        | 201, 400, 404, 409         |
-| READ   | GET         | 200, 404                   |
-| UPDATE | PUT         | 200, 204, 400, 404         |
-| UPDATE | PATCH       | 200, 204, 400, 404         |
-| DELETE | DELETE      | 200, 404                   |
+| CREATE | POST        | 201, 400, 404, 409, 500    |
+| READ   | GET         | 200, 404, 500              |
+| UPDATE | PUT         | 200, 204, 400, 404, 500    |
+| UPDATE | PATCH       | 200, 204, 400, 404, 500    |
+| DELETE | DELETE      | 200, 404, 500              |
 
 Usually HTTP request is unique by criteria
 
 - URL or path
 - Method
+
+Dummy rest api for test:
+https://restful-api.dev/
 
 There are four main ways to send parameters in an HTTP request, depending on the method (GET, POST, PUT, DELETE) and context:
 
@@ -192,6 +194,7 @@ Used with: Any HTTP method.
 
 Example:
 ```shell
+{
 GET /users
 Authorization: Bearer abc123
 Content-Type: application/json
@@ -200,3 +203,6 @@ Content-Type: application/json
 Purpose: For metadata, authentication tokens, content type, etc.
 Sent: As part of the HTTP header section, separate from the URL and body.
 
+**GET method is used for numbers only! GET method accepts only numbers in the path.  
+If you need a parameter that is not a number, you can use the POST method for GET purposes.  
+POST method receives a body with parameters.**
