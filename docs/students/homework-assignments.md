@@ -59,13 +59,15 @@ grade: +
 - **Project Task:** Factory
 
 grade: -
+
 comment: sve je urađeno na main grani, umjesto dev
 
 ### HW1 Lovre Klarić {#hw1-lovre-klaric}
 - **Project Task:** City
 
 grade: -
-comment: nepotpuno: PR nije approvao nastavnik, te gitignore nije uređen u skladu s zadatkom
+
+comment: nepotpuno: PR nije approvao nastavnik, te gitignore nije promijenjen u skladu s zadatkom
 
 ### HW1 Marin Ljubica {#hw1-marin-ljubica}
 - **Project Task:** Hotel

@@ -205,6 +205,7 @@ private static void DoSomeCalculations(int arg1, int arg2, int arg3, int arg4, i
    -  https://en.wikipedia.org/wiki/Indentation_style#Brace_placement_in_compound_statements
    -  https://en.wikipedia.org/wiki/Indentation_style#Allman_style
    -  Each brace (both `{` and `}`) starts on a new line and is the only character on that line
+   -  "If and else statements" can omitt brackets `{}` if code have one line. In that case code must have one tab
 
 :::tip **GOOD**
 
@@ -217,6 +218,9 @@ else
 {
    /* CODE */
 }
+
+if(!done)
+   DoSomeWork();
 ```
 
 :::
@@ -240,53 +244,15 @@ if(a > b){
 } else
 {
    /* CODE */ }
-```
 
-:::
-
-- **RULE 7** - Braces `{}` **MUST NEVER** be omitted in `if`, `else`, `while`, `for` (etc.) blocks, even when the block contains only one statement
-
-:::tip **GOOD**
-
-```csharp
-if(a > b)
-{
-   b = a - b;
-   a = a + 1;
-}
-
-while(!done)
-{
-   DoSomeWork();
-}
-
-for (int i = 0; i < 3; i++)
-{
-   Console.WriteLine(2*i);
-}
-```
-
-:::
-
-
-:::danger **BAD**
-
-```csharp
-while(!done) DoSomeWork();
-
-while(!done)
+if(!done)
 DoSomeWork();
-
-while(!done)
-   DoSomeWork();
-
-for (int i = 0; i < 3; i++)
-Console.WriteLine(2*i);
 ```
 
 :::
 
-- **RULE 8** - Each block **MUST** be indented one *TAB* to the right
+
+- **RULE 7** - Each block **MUST** be indented one *TAB* to the right
 
 :::tip **GOOD**
 
@@ -332,7 +298,7 @@ if(cancellationRequested)
 
 ### **Semantics**
 
-- **RULE 9** - If a fuction returns something, it **MUST NEVER** be ignored
+- **RULE 8** - If a fuction returns something, it **MUST NEVER** be ignored
   - If you do not care about the return value, you **MUST** explicitly use the discard operator `_`
   - https://softwareengineering.stackexchange.com/a/433117
 
@@ -375,7 +341,7 @@ public static void Main()
 
 :::
 
-- **RULE 10** - Each declaration **MUST** be written on its own line.
+- **RULE 9** - Each declaration **MUST** be written on its own line.
 
 :::tip **GOOD**
 
@@ -397,7 +363,7 @@ ConcurrentCode object, object2;
 
 :::
 
-- **RULE 11** - Good comment answers the question *WHY?* Bad comment answers the question *WHAT?*
+- **RULE 10** - Good comment answers the question *WHY?* Bad comment answers the question *WHAT?*
 
 
 :::tip **GOOD**
@@ -441,8 +407,7 @@ Use this checklist to check your code before submission:
 - [ ] **RULE 4** - Member variables use `pascal case` but *local variables* **MUST** use `camel case`
 - [ ] **RULE 5** - Lines **SHOULD** be shorter than 120 characters
 - [ ] **RULE 6** - *Allman* convention **MUST** be used for bracket (`{` and `}`) placement
-- [ ] **RULE 7** - Braces `{}` **MUST NEVER** be omitted in `if`, `else`, `while`, `for` (etc.) blocks
-- [ ] **RULE 8** - Each block **MUST** be indented one *TAB* to the right
-- [ ] **RULE 9** - If a fuction returns something, it **MUST NEVER** be ignored
-- [ ] **RULE 10** - Each declaration **MUST** be written on its own line.
-- [ ] **RULE 11** - Good comment answers the question *WHY?* Bad comment answers the question *WHAT?*
+- [ ] **RULE 7** - Each block **MUST** be indented one *TAB* to the right
+- [ ] **RULE 8** - If a fuction returns something, it **MUST NEVER** be ignored
+- [ ] **RULE 9** - Each declaration **MUST** be written on its own line.
+- [ ] **RULE 10** - Good comment answers the question *WHY?* Bad comment answers the question *WHAT?*
