@@ -58,12 +58,14 @@ grade: +
 ### HW1 Robert Ivasečko {#hw1-robert-ivasecko}
 - **Project Task:** Factory
 
-grade:
+grade: -
+comment: sve je urađeno na main grani, umjesto dev
 
 ### HW1 Lovre Klarić {#hw1-lovre-klaric}
 - **Project Task:** City
 
-grade:
+grade: -
+comment: nepotpuno: PR nije approvao nastavnik, te gitignore nije uređen u skladu s zadatkom
 
 ### HW1 Marin Ljubica {#hw1-marin-ljubica}
 - **Project Task:** Hotel
