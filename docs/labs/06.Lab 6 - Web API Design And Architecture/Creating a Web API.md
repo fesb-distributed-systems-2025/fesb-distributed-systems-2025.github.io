@@ -1,5 +1,4 @@
 # Creating a Web API
-# Lab 5: HTTP Programming
 
 ## **Table of Contents**
 
@@ -21,8 +20,9 @@ To create a new API project:
 
 ![web-api-new-project-type](./web-api-new-project-type.PNG)
 
-3. - Enter the name of the project as "Api"
-- Choose location where it will be saved - take location of your repository/directory from HW1
+3. Project configuration
+- Enter the name of the project as "Api"
+- Choose location where it will be saved - take location of your repository/folder from HW1
 - Enter the name of the solution - just copy/paste your repository name from HW1
 - Uncheck *Place solution and project in the same directory* option
 - Click *Next*
@@ -43,6 +43,8 @@ To create a new API project:
 
 ![web-api-controllers](./web-api-controllers.PNG)
 
+You can delete WeatherForecast.cs too.
+
 ### **Creating a new Controller**
 
 1. On the (probably) right side of the screen, where the *Solution Explorer* is, right click on the *Controllers* folder > *Add* > *Controller*
@@ -53,11 +55,28 @@ To create a new API project:
 
 ![web-api-controller-type](./web-api-controller-type.PNG)
 
-3. Give the new controller a name **so that it ends with** *Controller* (e.g. *StudentController*)
+3. Give the new controller a name **so that it ends with** *Controller* (e.g. *StudentController*) - take the name of your project task
 
 ![web-api-controller-name](./web-api-controller-name.PNG)
 
 **After this, your new** (*StudentController*) **controller should be visible in the** *Soultion Explorer* **pane under** *Controllers* **folder**.
 
-**After this, your new** (*StudentController*) **controller should be visible in the** *Soultion Explorer* **pane under** *Controllers* **folder**.
+### **Creating a Domain project**
 
+1. Right click on your solution in *Solution Explorer*. Choose Add and **New project...**
+
+![new-domain-project](./new-domain-project.PNG)
+
+2. Choose *Console App*. Click *Next*
+
+![new-domain-project-details](./new-domain-project-details.PNG)
+
+3. Wtite name of project as "Domain". Click *Next*
+
+![new-domain-project-config](./new-domain-project-config.PNG)
+
+4. Do same as on image. Click *Create*
+
+![new-domain-project-info](./new-domain-project-info.PNG)
+
+**On same way as *Domain* create two new projects with names "Application" and "Infrastructure"**
