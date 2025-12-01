@@ -1,4 +1,4 @@
-# Distributed Information Systems & Software engineering
+<!-- # Distributed Information Systems & Software engineering
 
 ## Project
 - [**Phase 1**](01.Phase%201/Homework.md)
@@ -15,4 +15,4 @@
   - [**Homework**](04.Phase%204/Homework.md)
 - [**Phase 5**](05.Phase%205/Homework.md)
   - [**Notes**](05.Phase%205/Notes.md)
-  - [**Homework**](05.Phase%205/Homework.md)
+  - [**Homework**](05.Phase%205/Homework.md) -->

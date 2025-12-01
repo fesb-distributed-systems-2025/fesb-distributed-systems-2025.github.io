@@ -61,9 +61,9 @@ You can delete WeatherForecast.cs too.
 
 **After this, your new** (*StudentController*) **controller should be visible in the** *Soultion Explorer* **pane under** *Controllers* **folder**.
 
-### **Creating a Domain project**
+### **Creating Domain, Application and Infrastructure projects**
 
-1. Right click on your solution in *Solution Explorer*. Choose Add and **New project...**
+1. Right click on your solution in *Solution Explorer*. Choose *Add* and **New project...**
 
 ![new-domain-project](./new-domain-project.PNG)
 
@@ -79,4 +79,6 @@ You can delete WeatherForecast.cs too.
 
 ![new-domain-project-info](./new-domain-project-info.PNG)
 
-**On same way as *Domain* create two new projects with names "Application" and "Infrastructure"**
+**On same way as *Domain* project create two new projects with names: "Application" and "Infrastructure".**
+
+### **Implementing Domain project**
