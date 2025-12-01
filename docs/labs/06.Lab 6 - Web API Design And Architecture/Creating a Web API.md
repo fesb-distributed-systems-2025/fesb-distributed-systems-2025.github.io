@@ -27,7 +27,7 @@ To create a new API project:
 - Uncheck *Place solution and project in the same directory* option
 - Click *Next*
 
-![web-api-configure](./web-api-configure.png)
+![web-api-configure](./web-api-configure.PNG)
 
 4. **IMPORTANT:**
    - Choose *.NET 8.0* for the *framework*. If you dont have it you can choose *.NET 6.0* or *.NET 7.0* 
@@ -37,7 +37,7 @@ To create a new API project:
    - Check *Use controllers*
    - Check *Enable OpenAPI support*
 
-![web-api-new-additional-info](./web-api-new-additional-info.png)
+![web-api-new-additional-info](./web-api-new-additional-info.PNG)
 
 **After this, you get an ASP.NET Web API project with one sample controller that can be deleted.**
 
