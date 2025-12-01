@@ -19,7 +19,7 @@ To create a new API project:
 
 2. Choose *ASP.NET Core Web API* as the project type and then click *Next*
 
-![web-api-new-project-type](./web-api-new-project-type.png)
+![web-api-new-project-type](./web-api-new-project-type.PNG)
 
 3. - Enter the name of the project as "Api"
 - Choose location where it will be saved - take location of your repository/directory from HW1
