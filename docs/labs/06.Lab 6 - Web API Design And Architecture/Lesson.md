@@ -85,6 +85,25 @@ to inject necessary dependencies (usually services) into classes requiring these
 
 ## **Clean architecture**
 
+Clean Architecture is a way of organizing your application so that the core business logic is completely independent from external concerns like databases, UI frameworks, or third-party services. The idea is to keep the most important code—the Domain—safe, stable, and reusable. Clean architecture is primarily architecture of backend part of application. Key idea: dependencies always point inward toward the Domain.
+This protects your business logic and makes your application easier to test, maintain, and evolve.
+
+Domain (Center)
+
+This is the heart of the system. It contains your entities, rules, and business logic. The domain does not depend on anything else.
+
+Application Layer
+
+This layer defines use cases—the ways your system can be used. It coordinates domain objects to perform operations. It still has no knowledge of UI, databases, or infrastructure.
+
+Presentation Layer
+
+This is the UI (e.g., MVC controllers, Razor Pages, Blazor, API endpoints). It receives input from users and sends results back. It depends on the Application layer but never the other way around.
+
+Infrastructure Layer
+
+This contains technical details such as EF Core, external APIs, repositories, logging, DB context and more. It implements interfaces defined in the Application layer.
+
 ![clean-architecture](clean-architecture.PNG)
 
-More find gere: https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure
+Find more here: https://www.milanjovanovic.tech/blog/clean-architecture-folder-structure
