@@ -12,6 +12,7 @@
     - [**SOA**](#soa)
       - [**REST API example**](#rest-api-example)
     - [**ASP.NET**](#aspnet)
+    - [**Clean architecture**](#clean)
 
 
 ### **Requirements**
@@ -88,9 +89,9 @@ to inject necessary dependencies (usually services) into classes requiring these
 Clean Architecture is a way of organizing your application so that the core business logic is completely independent from external concerns like databases, UI frameworks, or third-party services. The idea is to keep the most important code—the Domain—safe, stable, and reusable. Clean architecture is primarily architecture of backend part of application. Key idea: dependencies always point inward toward the Domain.
 This protects your business logic and makes your application easier to test, maintain, and evolve.
 
-Domain (Center)
+Domain
 
-This is the heart of the system. It contains your entities, rules, and business logic. The domain does not depend on anything else.
+This is the heart of the system. It contains your entities (models), rules, and business logic. The domain does not depend on anything else.
 
 Application Layer
 
@@ -98,7 +99,7 @@ This layer defines use cases—the ways your system can be used. It coordinates 
 
 Presentation Layer
 
-This is the UI (e.g., MVC controllers, Razor Pages, Blazor, API endpoints). It receives input from users and sends results back. It depends on the Application layer but never the other way around.
+This is the UI (e.g., MVC controllers, Razor Pages, Blazor, API endpoints). It receives input from users and sends results back. It depends on the Application layer. We can split this layer to backend part of application and frontend. Backend includes *Controllers*.
 
 Infrastructure Layer
 

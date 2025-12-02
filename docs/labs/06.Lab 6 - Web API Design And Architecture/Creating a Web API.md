@@ -81,4 +81,11 @@ You can delete WeatherForecast.cs too.
 
 **On same way as *Domain* project create two new projects with names: "Application" and "Infrastructure".**
 
-### **Implementing Domain project**
+Next need make references between projects. Connect Api layer with Infrastructure, Infrastructure with Application, Application with Domain.
+Image below shows way of connecting Api layer with Infrastructure:
+
+![project-reference](./project-reference.PNG)
+
+![api-reference](./api-reference.PNG)
+
+On same way set other two references.

@@ -17,6 +17,20 @@
     - [\[HW1\] Josip Mandić](#hw1-josip-mandic)
     - [\[HW1\] Toni Mišić](#hw1-toni-misic)
     - [\[HW1\] Frane Rokov](#hw1-frane-rokov)
+  - [Homework 2](#homework-2)
+    - [\[HW1\] Josip Bajić](#hw2-josip-bajic)
+    - [\[HW1\] Marta Belas](#hw2-marta-belas)
+    - [\[HW1\] Tomislav Brkan](#hw2-tomislav-brkan)
+    - [\[HW1\] Leonardo Ferri](#hw2-leonardo-ferri)
+    - [\[HW1\] Mateo Franjić](#hw2-mateo-franjic)
+    - [\[HW1\] Lovre Gobin](#hw2-lovre-gobin)
+    - [\[HW1\] Robert Ivasečko](#hw2-robert-ivasecko)
+    - [\[HW1\] Lovre Klarić](#hw2-lovre-klaric)
+    - [\[HW1\] Marin Ljubica](#hw2-marin-ljubica)
+    - [\[HW1\] Josipa Maček](#hw2-josipa-macek)
+    - [\[HW1\] Josip Mandić](#hw2-josip-mandic)
+    - [\[HW1\] Toni Mišić](#hw2-toni-misic)
+    - [\[HW1\] Frane Rokov](#hw2-frane-rokov)
 
 
 # Homework tasks and grades
@@ -58,9 +72,9 @@ grade: +
 ### HW1 Robert Ivasečko {#hw1-robert-ivasecko}
 - **Project Task:** Factory
 
-grade: -
+grade: +
 
-comment: sve je urađeno na main grani, umjesto dev
+comment: sa zakašnjenjem
 
 ### HW1 Lovre Klarić {#hw1-lovre-klaric}
 - **Project Task:** City
@@ -94,3 +108,72 @@ grade: +
 
 grade: +
 
+
+## Homework 2
+
+Task [link](/labs/06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Homework.md)
+
+### HW2 Josip Bajić {#hw2-josip-bajic}
+- **Project Task:** University
+
+grade:
+
+### HW2 Marta Belas {#hw2-marta-belas}
+- **Project Task:** Hospital
+
+grade:
+
+### HW2 Tomislav Brkan {#hw2-tomislav-brkan}
+- **Project Task:** Tire Shop
+
+grade:
+
+### HW2 Leonardo Ferri {#hw2-leonardo-ferri}
+- **Project Task:** Cinema
+
+grade:
+
+### HW2 Mateo Franjić {#hw2-mateo-franjic}
+- **Project Task:** Library
+
+grade:
+
+### HW2 Lovre Gobin {#hw2-lovre-gobin}
+- **Project Task:** Taxi Company
+
+grade:
+
+### HW2 Robert Ivasečko {#hw2-robert-ivasecko}
+- **Project Task:** Factory
+
+grade:
+
+### HW2 Lovre Klarić {#hw2-lovre-klaric}
+- **Project Task:** City
+
+grade:
+
+### HW2 Marin Ljubica {#hw2-marin-ljubica}
+- **Project Task:** Hotel
+
+grade:
+
+### HW2 Josipa Maček {#hw2-josipa-macek}
+- **Project Task:** Weather Station
+
+grade:
+
+### HW2 Josip Mandić {#hw2-josip-mandic}
+- **Project Task:** School
+
+grade:
+
+### HW2 Toni Mišić {#hw2-toni-misic}
+- **Project Task:** Airport
+
+grade:
+
+### HW2 Frane Rokov {#hw2-frane-rokov}
+- **Project Task:** Shelter
+
+grade:
