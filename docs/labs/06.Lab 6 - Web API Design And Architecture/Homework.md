@@ -34,8 +34,19 @@ The students that implement the following (ideally all) will be awarded with ext
 
 ## **Hints**
 
-- Don't forget commits naming convention that we learned in [Lab04](../../labs/04.Lab 4 - Git Basics)
+- Don't forget commits naming convention that we learned in [Lab04](../../labs/04.Lab 4 - Git Basics) - every commit must have homework keyword e.g. HW02-initial commit
+- All actual code on professor's github repository find under properly Tag e.g. all you need for HW2 you can find under tag 2.0.0-HW02
 
+![repo-tag](repo-tag.PNG)
+
+- All your git changes do on dev branch!
+- If you have problem with pairing local git repository and online github repository try below command. You can try do git fetch via git bash terminal or Visual studio. If you get error message that repository is not found you have pairing problem. Go to your github repository and copy url:
+
+![git-fix](git-fix.PNG)
+
+Now got to git bash in folder that is your project located and do next command:
+e.g. git remote set-url origin https://github.com/fesb-distributed-systems-2025/Zeljko9999-pokazni-project-Student.git
+Replace url with your's and don't forget .git at end.
 
 ## Further Reading
 
