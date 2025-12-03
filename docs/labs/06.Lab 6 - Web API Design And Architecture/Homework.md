@@ -34,7 +34,7 @@ The students that implement the following (ideally all) will be awarded with ext
 
 ## **Hints**
 
-- Don't forget commits naming convention that we learned in [Lab04](../../labs/04.Lab 4 - Git Basics) - every commit must have homework keyword e.g. HW02-initial commit
+- Don't forget commits naming convention that we learned in [Lab04](../../labs/04.Lab%204%20-%20Git%20Basics) - every commit must have homework keyword e.g. HW02-initial commit
 - All actual code on professor's github repository find under properly Tag e.g. all you need for HW2 you can find under tag 2.0.0-HW02
 
 ![repo-tag](repo-tag.PNG)

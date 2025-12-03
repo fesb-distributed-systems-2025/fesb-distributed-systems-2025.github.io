@@ -17,7 +17,7 @@
 
 ### **Requirements**
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Postman application](https://www.postman.com/downloads/)
 
 ### **Objectives**
