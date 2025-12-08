@@ -117,7 +117,8 @@ Task [link](/labs/06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Homew
 ### HW2 Josip Bajić {#hw2-josip-bajic}
 - **Project Task:** University
 
-grade:
+grade: ++
+comment: razdvojiti u 2 kontrolera
 
 ### HW2 Marta Belas {#hw2-marta-belas}
 - **Project Task:** Hospital
@@ -127,22 +128,25 @@ grade:
 ### HW2 Tomislav Brkan {#hw2-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade:
+grade: ++
+comment: nadopuniti controller
 
 ### HW2 Leonardo Ferri {#hw2-leonardo-ferri}
 - **Project Task:** Cinema
 
-grade:
+grade: ++
+comment: popravak u DTO
 
 ### HW2 Mateo Franjić {#hw2-mateo-franjic}
 - **Project Task:** Library
 
-grade:
+grade: ++
+comment: promjena u domain
 
 ### HW2 Lovre Gobin {#hw2-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade:
+grade: ++
 
 ### HW2 Robert Ivasečko {#hw2-robert-ivasecko}
 - **Project Task:** Factory
@@ -167,12 +171,12 @@ grade:
 ### HW2 Josip Mandić {#hw2-josip-mandic}
 - **Project Task:** School
 
-grade:
+grade: +
 
 ### HW2 Toni Mišić {#hw2-toni-misic}
 - **Project Task:** Airport
 
-grade:
+grade: ++
 
 ### HW2 Frane Rokov {#hw2-frane-rokov}
 - **Project Task:** Shelter
