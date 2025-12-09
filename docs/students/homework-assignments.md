@@ -122,7 +122,7 @@ grade: ++
 ### HW2 Marta Belas {#hw2-marta-belas}
 - **Project Task:** Hospital
 
-grade:
+grade: ++
 
 ### HW2 Tomislav Brkan {#hw2-tomislav-brkan}
 - **Project Task:** Tire Shop
@@ -135,8 +135,6 @@ comment: nadopuniti controller ispravnim klasama i metodama
 - **Project Task:** Cinema
 
 grade: ++
-
-comment: popravak u DTO
 
 ### HW2 Mateo Franjić {#hw2-mateo-franjic}
 - **Project Task:** Library
@@ -151,7 +149,7 @@ grade: ++
 ### HW2 Robert Ivasečko {#hw2-robert-ivasecko}
 - **Project Task:** Factory
 
-grade:
+grade: -
 
 ### HW2 Lovre Klarić {#hw2-lovre-klaric}
 - **Project Task:** City
@@ -163,14 +161,12 @@ comment: sve klase su prazne
 ### HW2 Marin Ljubica {#hw2-marin-ljubica}
 - **Project Task:** Hotel
 
-grade:
-
-comment: odrađen domaći ali nema PR-a
+grade: ++
 
 ### HW2 Josipa Maček {#hw2-josipa-macek}
 - **Project Task:** Weather Station
 
-grade:
+grade: ++
 
 ### HW2 Josip Mandić {#hw2-josip-mandic}
 - **Project Task:** School
