@@ -14,5 +14,5 @@
   - [Creating a Web API](06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Creating%20a%20Web%20API.md)
   - [Lesson](06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Lesson.md)
   - [Homework](06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Homework.md)
-- [**Lab 7: Docker**](07.Lab%207%20-%20Docker/Lesson.md)
-- [**Lab 8: Web Sockets**](08.Lab%208%20-%20Web%20Sockets/Lesson.md)
+- [**Lab 7: Web Sockets**](07.Lab%207%20-%20Web%20Sockets/Lesson.md)
+- [**Lab 10: Docker**](10.Lab%2010%20-%20Docker/Lesson.md)
