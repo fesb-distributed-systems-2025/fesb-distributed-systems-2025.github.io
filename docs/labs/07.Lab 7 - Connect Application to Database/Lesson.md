@@ -35,18 +35,22 @@ On Nugett screen choose Browse and search for you package -> hen click on packag
 
 List of packages per project:
 
-Api: - EntityFrameworkCore.Tools
+Api:
+     - EntityFrameworkCore.Tools
      - AspNetCore.Swagger
      - AspNetCore.SwaggerGen
      - AspNetCore.SwaggerUI
 
-Application: - EntityFrameworkCore
+Application:
+             - EntityFrameworkCore
              - EntityFrameworkCore.SqlServer
              - EntityFrameworkCore.Tools
 
-Domain: - EntityFrameworkCore.Design
+Domain: 
+        - EntityFrameworkCore.Design
 
-Infrastructure: EntityFrameworkCore
+Infrastructure: 
+                - EntityFrameworkCore
 
 ## **Exercise 2: Implement Db Context and make Connection string**
 

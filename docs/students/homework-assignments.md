@@ -18,19 +18,33 @@
     - [\[HW1\] Toni Mišić](#hw1-toni-misic)
     - [\[HW1\] Frane Rokov](#hw1-frane-rokov)
   - [Homework 2](#homework-2)
-    - [\[HW1\] Josip Bajić](#hw2-josip-bajic)
-    - [\[HW1\] Marta Belas](#hw2-marta-belas)
-    - [\[HW1\] Tomislav Brkan](#hw2-tomislav-brkan)
-    - [\[HW1\] Leonardo Ferri](#hw2-leonardo-ferri)
-    - [\[HW1\] Mateo Franjić](#hw2-mateo-franjic)
-    - [\[HW1\] Lovre Gobin](#hw2-lovre-gobin)
-    - [\[HW1\] Robert Ivasečko](#hw2-robert-ivasecko)
-    - [\[HW1\] Lovre Klarić](#hw2-lovre-klaric)
-    - [\[HW1\] Marin Ljubica](#hw2-marin-ljubica)
-    - [\[HW1\] Josipa Maček](#hw2-josipa-macek)
-    - [\[HW1\] Josip Mandić](#hw2-josip-mandic)
-    - [\[HW1\] Toni Mišić](#hw2-toni-misic)
-    - [\[HW1\] Frane Rokov](#hw2-frane-rokov)
+    - [\[HW2\] Josip Bajić](#hw2-josip-bajic)
+    - [\[HW2\] Marta Belas](#hw2-marta-belas)
+    - [\[HW2\] Tomislav Brkan](#hw2-tomislav-brkan)
+    - [\[HW2\] Leonardo Ferri](#hw2-leonardo-ferri)
+    - [\[HW2\] Mateo Franjić](#hw2-mateo-franjic)
+    - [\[HW2\] Lovre Gobin](#hw2-lovre-gobin)
+    - [\[HW2\] Robert Ivasečko](#hw2-robert-ivasecko)
+    - [\[HW2\] Lovre Klarić](#hw2-lovre-klaric)
+    - [\[HW2\] Marin Ljubica](#hw2-marin-ljubica)
+    - [\[HW2\] Josipa Maček](#hw2-josipa-macek)
+    - [\[HW2\] Josip Mandić](#hw2-josip-mandic)
+    - [\[HW2\] Toni Mišić](#hw2-toni-misic)
+    - [\[HW2\] Frane Rokov](#hw2-frane-rokov)
+  - [Homework 3](#homework-3)
+    - [\[HW3\] Josip Bajić](#hw3-josip-bajic)
+    - [\[HW3\] Marta Belas](#hw3-marta-belas)
+    - [\[HW3\] Tomislav Brkan](#hw3-tomislav-brkan)
+    - [\[HW3\] Leonardo Ferri](#hw3-leonardo-ferri)
+    - [\[HW3\] Mateo Franjić](#hw3-mateo-franjic)
+    - [\[HW3\] Lovre Gobin](#hw3-lovre-gobin)
+    - [\[HW3\] Robert Ivasečko](#hw3-robert-ivasecko)
+    - [\[HW3\] Lovre Klarić](#hw3-lovre-klaric)
+    - [\[HW3\] Marin Ljubica](#hw3-marin-ljubica)
+    - [\[HW3\] Josipa Maček](#hw3-josipa-macek)
+    - [\[HW3\] Josip Mandić](#hw3-josip-mandic)
+    - [\[HW3\] Toni Mišić](#hw3-toni-misic)
+    - [\[HW3\] Frane Rokov](#hw3-frane-rokov)
 
 
 # Homework tasks and grades
@@ -182,3 +196,74 @@ grade: ++
 - **Project Task:** Shelter
 
 grade: ++
+
+----------------------------------------------------------------------------------------------
+
+## Homework 3
+
+Task [link](/labs/07.Lab%207%20-%20Connect%20Application%20to%20Database/Homework.md)
+
+### HW3 Josip Bajić {#hw3-josip-bajic}
+- **Project Task:** University
+
+grade: +
+
+### HW3 Marta Belas {#hw3-marta-belas}
+- **Project Task:** Hospital
+
+grade:
+
+### HW3 Tomislav Brkan {#hw3-tomislav-brkan}
+- **Project Task:** Tire Shop
+
+grade: 
+
+### HW3 Leonardo Ferri {#hw3-leonardo-ferri}
+- **Project Task:** Cinema
+
+grade: 
+
+### HW3 Mateo Franjić {#hw3-mateo-franjic}
+- **Project Task:** Library
+
+grade: 
+
+### HW3 Lovre Gobin {#hw3-lovre-gobin}
+- **Project Task:** Taxi Company
+
+grade: 
+
+### HW3 Robert Ivasečko {#hw3-robert-ivasecko}
+- **Project Task:** Factory
+
+grade: 
+
+### HW3 Lovre Klarić {#hw3-lovre-klaric}
+- **Project Task:** City
+
+grade:
+
+### HW3 Marin Ljubica {#hw3-marin-ljubica}
+- **Project Task:** Hotel
+
+grade: 
+
+### HW3 Josipa Maček {#hw3-josipa-macek}
+- **Project Task:** Weather Station
+
+grade: 
+
+### HW3 Josip Mandić {#hw3-josip-mandic}
+- **Project Task:** School
+
+grade: 
+
+### HW3 Toni Mišić {#hw3-toni-misic}
+- **Project Task:** Airport
+
+grade: 
+
+### HW3 Frane Rokov {#hw3-frane-rokov}
+- **Project Task:** Shelter
+
+grade: 
