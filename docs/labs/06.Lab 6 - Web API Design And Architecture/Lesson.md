@@ -78,12 +78,6 @@ In **ASP.NET** applications it is common practice to utilize Inversion of Contro
 IoC container or in some references Dependency Injection (DI) is a pattern used commonly through many business applications
 to inject necessary dependencies (usually services) into classes requiring these dependencies.
 
-**ASP.NET** framework provides developer with build in DI container in which developer can define custom services with one of three lifetime scopes:
-
-- **Singleton:** lifetime of service is through lifetime of application
-- **Scoped:** lifetime of service is scope of one request, so for each request new service will be created
-- **Transient:** each time service is requested, new instance is created
-
 ## **Clean architecture**
 
 Clean Architecture is a way of organizing your application so that the core business logic is completely independent from external concerns like databases, UI frameworks, or third-party services. The idea is to keep the most important code—the Domain—safe, stable, and reusable. Clean architecture is primarily architecture of backend part of application. Key idea: dependencies always point inward toward the Domain.
@@ -91,19 +85,19 @@ This protects your business logic and makes your application easier to test, mai
 
 Domain
 
-This is the heart of the system. It contains your entities (models), rules, and business logic. The domain does not depend on anything else.
+TThe core layer acts as the heart of the application, consisting of the business logic services, exception classes, abstraction interfaces, validators, enums, and any other domain-related classes. It contains your entities (models), rules, and business logic. The domain does not depend on anything else.
 
 Application Layer
 
-This layer defines use cases—the ways your system can be used. It coordinates domain objects to perform operations. It still has no knowledge of UI, databases, or infrastructure.
+This layer defines use cases - the ways your system can be used. You can structure your use cases using services or using commands and queries. It coordinates domain objects to perform operations. It still has no knowledge of UI, databases, or infrastructure. 
 
 Presentation Layer
 
-This is the UI (e.g., MVC controllers, Razor Pages, Blazor, API endpoints). It receives input from users and sends results back. It depends on the Application layer. We can split this layer to backend part of application and frontend. Backend includes *Controllers*.
+This is the UI (e.g. MVC controllers, Razor Pages, Blazor, API endpoints). It receives input from users and sends results back. It depends on the Application layer. We can split this layer to backend part of application and frontend. Backend includes *Controllers*.
 
 Infrastructure Layer
 
-This contains technical details such as EF Core, external APIs, repositories, logging, DB context and more. It implements interfaces defined in the Application layer.
+This contains technical details such as EF Core, external APIs, repositories, logging, DB context and more. It implements interfaces defined in the Application layer. The infrastructure layer is responsible for the implementation of the abstractions defined in the domain layer, and it is the layer that is responsible for the communication with the external services such as a database, a message broker, or a third party service. 
 
 ![clean-architecture](clean-architecture.PNG)
 

@@ -168,7 +168,7 @@ grade: -
 ### HW2 Lovre Klarić {#hw2-lovre-klaric}
 - **Project Task:** City
 
-grade:
+grade: -
 
 comment: sve klase su prazne
 
@@ -226,12 +226,12 @@ grade:
 ### HW3 Mateo Franjić {#hw3-mateo-franjic}
 - **Project Task:** Library
 
-grade: 
+grade: +
 
 ### HW3 Lovre Gobin {#hw3-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade: 
+grade: +
 
 ### HW3 Robert Ivasečko {#hw3-robert-ivasecko}
 - **Project Task:** Factory
