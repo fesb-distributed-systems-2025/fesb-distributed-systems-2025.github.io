@@ -9,7 +9,7 @@
     - [**Requirements**](#requirements)
     - [**Objectives**](#objectives)
   - [**Exercise 1: Implement Code First conventions**](#implement-code-first-conventions)
-        - [**Defining Relationships in Classes**](#relationships-in-classes)
+    - [**Defining Relationships in Classes**](#relationships-in-classes)
   - [**Exercise 2: Creating Migrations**](#creating-migrations)
 
 ### **Requirements**
@@ -96,7 +96,7 @@ Have on mind that all properties in domain classes must have nullability operato
 
 All domain classes must be implemented in DbContext!
 
-After we built in conventions into classe + domain config files, implemented DbContext with all domain classes, created connection string and made changes in Program.cs file, we can start migrations.
+After we built in conventions into classes + implement domain config files, implemented DbContext with all domain classes, created connection string and made changes in Program.cs file, we can start migrations.
 
 ## **Exercise 2: Creating Migrations**
 
@@ -116,7 +116,7 @@ We will use Package Manager Console to write commands. You can open it in Visual
 
 :::caution **IMPORTANT**
 
-Set projects as shown on image below
+Set projects as shown on image below:
 
 :::
 
@@ -134,7 +134,7 @@ Running Update-Database applies these changes and creates the database on your S
 
 This process ensures that your database structure always matches your .NET code.
 
-
+Next Lab:
 **ASP.NET** framework provides developer with build in DI container in which developer can define custom services with one of three lifetime scopes:
 
 - **Singleton:** lifetime of service is through lifetime of application
