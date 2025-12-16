@@ -1,10 +1,10 @@
 # Lesson
-# Lab 8: Web Sockets
+# Lab 7: Connect Application to Database
 
 ## **Table of Contents**
 
 - [Lesson](#lesson)
-- [Lab 8: Web Sockets](#lab-8-web-sockets)
+- [Lab 7: Connect Application to Database](#lab-7-connect-application-to-database)
   - [**Table of Contents**](#table-of-contents)
     - [**Requirements**](#requirements)
     - [**Objectives**](#objectives)
@@ -54,7 +54,7 @@ Infrastructure:
 
 ## **Exercise 2: Implement Db Context and make Connection string**
 
-Db Context is main class to map .NET domain classes to tables in database. Using DbSet class we define which domain class will be mapped into db table.
+Db Context is main class to map .NET domain classes to tables in database (used to connect a .NET application to a db). It manages database connections and lets you read, add, update, and delete data using C# objects instead of SQL. Using DbSet class we define which domain class will be mapped into db table. DbSet represents a table in the database. It allows you to query and work with data in that table, such as adding new records or retrieving existing ones.
 
 Connection string is usually defined in appsettings.json file. It is string that define connection to database that we will use for our application. Usually connection string contains SQL server instance name, database name, authentication login data and connection config data.
 
