@@ -221,7 +221,7 @@ grade:
 ### HW3 Leonardo Ferri {#hw3-leonardo-ferri}
 - **Project Task:** Cinema
 
-grade: 
+grade: +
 
 ### HW3 Mateo Franjić {#hw3-mateo-franjic}
 - **Project Task:** Library
@@ -261,7 +261,9 @@ grade:
 ### HW3 Toni Mišić {#hw3-toni-misic}
 - **Project Task:** Airport
 
-grade: 
+grade: +
+
+comment: Odrađeno dosta toga unaprijed, otvoriti PR za idući domaći
 
 ### HW3 Frane Rokov {#hw3-frane-rokov}
 - **Project Task:** Shelter
