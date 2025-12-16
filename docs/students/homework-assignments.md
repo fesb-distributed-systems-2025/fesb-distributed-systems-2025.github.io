@@ -211,12 +211,16 @@ grade: +
 ### HW3 Marta Belas {#hw3-marta-belas}
 - **Project Task:** Hospital
 
-grade:
+grade: +
+
+comment: izmijenit connection string
 
 ### HW3 Tomislav Brkan {#hw3-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: 
+grade: +
+
+comment: odrađen HW3 ali pojavile su se naknadne nejasnoće vezane uz HW2
 
 ### HW3 Leonardo Ferri {#hw3-leonardo-ferri}
 - **Project Task:** Cinema
@@ -238,20 +242,28 @@ grade: +
 
 grade: 
 
+comment: odrađen HW2, još napraviti HW3
+
 ### HW3 Lovre Klarić {#hw3-lovre-klaric}
 - **Project Task:** City
 
 grade:
 
+comment: uglavnom odrađen HW2 uz neke potrebne izmjene, ali HW3 nije jer fali implementacija contexta i interfacea
+
 ### HW3 Marin Ljubica {#hw3-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: 
+grade: +
+
+comment: problem sa sql serverom
 
 ### HW3 Josipa Maček {#hw3-josipa-macek}
 - **Project Task:** Weather Station
 
 grade: 
+
+comment: fali implementacija contexta i interfacea
 
 ### HW3 Josip Mandić {#hw3-josip-mandic}
 - **Project Task:** School
@@ -268,4 +280,4 @@ comment: Odrađeno dosta toga unaprijed, otvoriti PR za idući domaći
 ### HW3 Frane Rokov {#hw3-frane-rokov}
 - **Project Task:** Shelter
 
-grade: 
+grade: +
