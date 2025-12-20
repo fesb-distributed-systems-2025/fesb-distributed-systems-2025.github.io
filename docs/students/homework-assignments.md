@@ -45,6 +45,20 @@
     - [\[HW3\] Josip Mandić](#hw3-josip-mandic)
     - [\[HW3\] Toni Mišić](#hw3-toni-misic)
     - [\[HW3\] Frane Rokov](#hw3-frane-rokov)
+  - [Homework 4](#homework-4)
+    - [\[HW4\] Josip Bajić](#hw4-josip-bajic)
+    - [\[HW4\] Marta Belas](#hw4-marta-belas)
+    - [\[HW4\] Tomislav Brkan](#hw4-tomislav-brkan)
+    - [\[HW4\] Leonardo Ferri](#hw4-leonardo-ferri)
+    - [\[HW4\] Mateo Franjić](#hw4-mateo-franjic)
+    - [\[HW4\] Lovre Gobin](#hw4-lovre-gobin)
+    - [\[HW4\] Robert Ivasečko](#hw4-robert-ivasecko)
+    - [\[HW4\] Lovre Klarić](#hw4-lovre-klaric)
+    - [\[HW4\] Marin Ljubica](#hw4-marin-ljubica)
+    - [\[HW4\] Josipa Maček](#hw4-josipa-macek)
+    - [\[HW4\] Josip Mandić](#hw4-josip-mandic)
+    - [\[HW4\] Toni Mišić](#hw4-toni-misic)
+    - [\[HW4\] Frane Rokov](#hw4-frane-rokov)
 
 
 # Homework tasks and grades
@@ -240,35 +254,35 @@ grade: +
 ### HW3 Robert Ivasečko {#hw3-robert-ivasecko}
 - **Project Task:** Factory
 
-grade: 
+grade: -
 
 comment: odrađen HW2, još napraviti HW3
 
 ### HW3 Lovre Klarić {#hw3-lovre-klaric}
 - **Project Task:** City
 
-grade:
+grade: -
 
 comment: uglavnom odrađen HW2 uz neke potrebne izmjene, ali HW3 nije jer fali implementacija contexta i interfacea
 
 ### HW3 Marin Ljubica {#hw3-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: +
+grade: 
 
 comment: problem sa sql serverom
 
 ### HW3 Josipa Maček {#hw3-josipa-macek}
 - **Project Task:** Weather Station
 
-grade: 
+grade: -
 
 comment: fali implementacija contexta i interfacea
 
 ### HW3 Josip Mandić {#hw3-josip-mandic}
 - **Project Task:** School
 
-grade: 
+grade: -
 
 ### HW3 Toni Mišić {#hw3-toni-misic}
 - **Project Task:** Airport
@@ -281,3 +295,74 @@ comment: Odrađeno dosta toga unaprijed, otvoriti PR za idući domaći
 - **Project Task:** Shelter
 
 grade: +
+
+----------------------------------------------------------------------------------------------
+
+## Homework 4
+
+Task [link](/labs/08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
+
+### HW4 Josip Bajić {#hw4-josip-bajic}
+- **Project Task:** University
+
+grade: 
+
+### HW4 Marta Belas {#hw4-marta-belas}
+- **Project Task:** Hospital
+
+grade: 
+
+### HW4 Tomislav Brkan {#hw4-tomislav-brkan}
+- **Project Task:** Tire Shop
+
+grade: 
+
+### HW4 Leonardo Ferri {#hw4-leonardo-ferri}
+- **Project Task:** Cinema
+
+grade: 
+
+### HW4 Mateo Franjić {#hw4-mateo-franjic}
+- **Project Task:** Library
+
+grade: 
+
+### HW4 Lovre Gobin {#hw4-lovre-gobin}
+- **Project Task:** Taxi Company
+
+grade: 
+
+### HW4 Robert Ivasečko {#hw4-robert-ivasecko}
+- **Project Task:** Factory
+
+grade: 
+
+### HW4 Lovre Klarić {#hw4-lovre-klaric}
+- **Project Task:** City
+
+grade:
+
+### HW4 Marin Ljubica {#hw4-marin-ljubica}
+- **Project Task:** Hotel
+
+grade: 
+
+### HW4 Josipa Maček {#hw4-josipa-macek}
+- **Project Task:** Weather Station
+
+grade: 
+
+### HW4 Josip Mandić {#hw4-josip-mandic}
+- **Project Task:** School
+
+grade: 
+
+### HW4 Toni Mišić {#hw4-toni-misic}
+- **Project Task:** Airport
+
+grade: 
+
+### HW4 Frane Rokov {#hw4-frane-rokov}
+- **Project Task:** Shelter
+
+grade: 

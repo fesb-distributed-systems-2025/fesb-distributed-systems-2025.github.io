@@ -98,6 +98,12 @@ All domain classes must be implemented in DbContext!
 
 After we built in conventions into classes + implement domain config files, implemented DbContext with all domain classes, created connection string and made changes in Program.cs file, we can start migrations.
 
+### **Codebook tables**
+
+Codebook tables (hrv. šifrarnici) are tables in database which change never or rarely. For those tables in most cases you dont need all CRUD operations. You probably will need get API (depends on your business logic), but other APIs are not necessary because all data in that tables are mostly changed via direct SQL operations in database. Some examples ofcodebook tables: program types, genres, classes, academic years etc.
+In .NET there is possibilty to insert data in codebooks at moment of creating database via migrations. That data is defined in DB context.
+
+
 ## **Exercise 2: Creating Migrations**
 
 Migrations are used to create and update the database schema based on your entity classes.

@@ -16,4 +16,6 @@
   - [Homework](06.Lab%206%20-%20Web%20API%20Design%20And%20Architecture/Homework.md)
 - [**Lab 7: Connect Application to Database**](07.Lab%207%20-%20Connect%20Application%20to%20Database/Lesson.md)
   - [Homework](07.Lab%207%20-%20Connect%20Application%20to%20Database/Homework.md)
+- [**Lab 8: Data Manage and Migrations**](08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Lesson.md)
+  - [Homework](08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
 - [**Lab 10: Docker**](10.Lab%2010%20-%20Docker/Lesson.md)
