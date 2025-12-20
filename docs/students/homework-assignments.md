@@ -305,7 +305,9 @@ Task [link](/labs/08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
 ### HW4 Josip Bajić {#hw4-josip-bajic}
 - **Project Task:** University
 
-grade: 
+grade: ++
+
+comment: nadopuniti domenske klase+db context s trećim N-N tablicama
 
 ### HW4 Marta Belas {#hw4-marta-belas}
 - **Project Task:** Hospital

@@ -19,3 +19,4 @@ The students that implement the following and meet the criteria will be awarded 
 ## Further Reading
 
 - [Value types vs Reference types](https://www.koderhq.com/tutorial/csharp/data-types/)
+- [Example of circular reference problem](https://caglarcansarikaya.medium.com/circular-reference-entity-framework-cbab261e1251)
