@@ -307,8 +307,6 @@ Task [link](/labs/08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
 
 grade: ++
 
-comment: nadopuniti domenske klase+db context s trećim N-N tablicama
-
 ### HW4 Marta Belas {#hw4-marta-belas}
 - **Project Task:** Hospital
 
@@ -324,15 +322,21 @@ grade:
 
 grade: 
 
+comment: naraviti domensku klasklasu za treću tablicu + db context s trećom N-N tablicom
+
 ### HW4 Mateo Franjić {#hw4-mateo-franjic}
 - **Project Task:** Library
 
-grade: 
+grade: ++
+
+comment: fali Log tablica
 
 ### HW4 Lovre Gobin {#hw4-lovre-gobin}
 - **Project Task:** Taxi Company
 
 grade: 
+
+comment: indeksi, nullabilnost i default klase
 
 ### HW4 Robert Ivasečko {#hw4-robert-ivasecko}
 - **Project Task:** Factory
@@ -359,6 +363,8 @@ grade:
 
 grade: 
 
+comment: opravdano-bolest. Odraditi preko praznika
+
 ### HW4 Toni Mišić {#hw4-toni-misic}
 - **Project Task:** Airport
 
@@ -367,4 +373,6 @@ grade:
 ### HW4 Frane Rokov {#hw4-frane-rokov}
 - **Project Task:** Shelter
 
-grade: 
+grade: ++
+
+comment: dodati Log i User
