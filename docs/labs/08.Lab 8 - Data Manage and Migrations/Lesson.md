@@ -9,7 +9,7 @@
     - [**Requirements**](#requirements)
     - [**Objectives**](#objectives)
   - [**Exercise 1: Implement Code First conventions**](#implement-code-first-conventions)
-    - [**Defining Relationships in Classes**](#relationships-in-classes)
+    - [**Defining Relationships in Classes**](#defining-relationships-in-classes)
     - [**Codebook tables**](#codebook-tables)
   - [**Exercise 2: Creating Migrations**](#creating-migrations)
 

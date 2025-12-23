@@ -322,7 +322,7 @@ grade:
 
 grade: 
 
-comment: naraviti domensku klasklasu za treću tablicu + db context s trećom N-N tablicom
+comment: napraviti domensku klasklasu za treću tablicu + db context s trećom N-N tablicom
 
 ### HW4 Mateo Franjić {#hw4-mateo-franjic}
 - **Project Task:** Library
@@ -368,7 +368,9 @@ comment: opravdano-bolest. Odraditi preko praznika
 ### HW4 Toni Mišić {#hw4-toni-misic}
 - **Project Task:** Airport
 
-grade: 
+grade: ++
+
+comment: dodati Log i User
 
 ### HW4 Frane Rokov {#hw4-frane-rokov}
 - **Project Task:** Shelter
