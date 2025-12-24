@@ -234,8 +234,6 @@ comment: izmijenit connection string
 
 grade: +
 
-comment: odrađen HW3 ali pojavile su se naknadne nejasnoće vezane uz HW2
-
 ### HW3 Leonardo Ferri {#hw3-leonardo-ferri}
 - **Project Task:** Cinema
 
@@ -263,12 +261,10 @@ comment: odrađen HW2, još napraviti HW3
 
 grade: -
 
-comment: uglavnom odrađen HW2 uz neke potrebne izmjene, ali HW3 nije jer fali implementacija contexta i interfacea
-
 ### HW3 Marin Ljubica {#hw3-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: 
+grade: +
 
 comment: problem sa sql serverom
 
@@ -277,7 +273,6 @@ comment: problem sa sql serverom
 
 grade: -
 
-comment: fali implementacija contexta i interfacea
 
 ### HW3 Josip Mandić {#hw3-josip-mandic}
 - **Project Task:** School
@@ -310,43 +305,41 @@ grade: ++
 ### HW4 Marta Belas {#hw4-marta-belas}
 - **Project Task:** Hospital
 
-grade: 
+grade: ++
 
 ### HW4 Tomislav Brkan {#hw4-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: 
+grade: otvoriti ispravan PR (+)
 
 ### HW4 Leonardo Ferri {#hw4-leonardo-ferri}
 - **Project Task:** Cinema
 
-grade: 
-
-comment: napraviti domensku klasklasu za treću tablicu + db context s trećom N-N tablicom
+grade: ++
 
 ### HW4 Mateo Franjić {#hw4-mateo-franjic}
 - **Project Task:** Library
 
 grade: ++
 
-comment: fali Log tablica
-
 ### HW4 Lovre Gobin {#hw4-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade: 
-
-comment: indeksi, nullabilnost i default klase
+grade: ++
 
 ### HW4 Robert Ivasečko {#hw4-robert-ivasecko}
 - **Project Task:** Factory
 
 grade: 
 
+comment: otvoriti pull request
+
 ### HW4 Lovre Klarić {#hw4-lovre-klaric}
 - **Project Task:** City
 
 grade:
+
+comment: Log i user dodati, te pokrenuti migracije (+)
 
 ### HW4 Marin Ljubica {#hw4-marin-ljubica}
 - **Project Task:** Hotel
@@ -370,11 +363,7 @@ comment: opravdano-bolest. Odraditi preko praznika
 
 grade: ++
 
-comment: dodati Log i User
-
 ### HW4 Frane Rokov {#hw4-frane-rokov}
 - **Project Task:** Shelter
 
 grade: ++
-
-comment: dodati Log i User
