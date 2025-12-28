@@ -310,7 +310,7 @@ grade: ++
 ### HW4 Tomislav Brkan {#hw4-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: otvoriti ispravan PR (+)
+grade: +
 
 ### HW4 Leonardo Ferri {#hw4-leonardo-ferri}
 - **Project Task:** Cinema
@@ -367,3 +367,74 @@ grade: ++
 - **Project Task:** Shelter
 
 grade: ++
+
+----------------------------------------------------------------------------------------------
+
+## Homework 5
+
+Task [link](/labs/08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
+
+### HW5 Josip Bajić {#hw5-josip-bajic}
+- **Project Task:** University
+
+grade: 
+
+### HW5 Marta Belas {#hw5-marta-belas}
+- **Project Task:** Hospital
+
+grade: 
+
+### HW5 Tomislav Brkan {#hw5-tomislav-brkan}
+- **Project Task:** Tire Shop
+
+grade: 
+
+### HW5 Leonardo Ferri {#hw5-leonardo-ferri}
+- **Project Task:** Cinema
+
+grade: 
+
+### HW5 Mateo Franjić {#hw5-mateo-franjic}
+- **Project Task:** Library
+
+grade: 
+
+### HW5 Lovre Gobin {#hw5-lovre-gobin}
+- **Project Task:** Taxi Company
+
+grade: 
+
+### HW5 Robert Ivasečko {#hw5-robert-ivasecko}
+- **Project Task:** Factory
+
+grade: 
+
+### HW5 Lovre Klarić {#hw5-lovre-klaric}
+- **Project Task:** City
+
+grade:
+
+### HW5 Marin Ljubica {#hw5-marin-ljubica}
+- **Project Task:** Hotel
+
+grade: 
+
+### HW5 Josipa Maček {#hw5-josipa-macek}
+- **Project Task:** Weather Station
+
+grade: 
+
+### HW5 Josip Mandić {#hw5-josip-mandic}
+- **Project Task:** School
+
+grade: 
+
+### HW5 Toni Mišić {#hw5-toni-misic}
+- **Project Task:** Airport
+
+grade: 
+
+### HW5 Frane Rokov {#hw5-frane-rokov}
+- **Project Task:** Shelter
+
+grade: 
