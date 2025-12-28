@@ -387,7 +387,7 @@ grade:
 ### HW5 Tomislav Brkan {#hw5-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: 
+grade: +
 
 ### HW5 Leonardo Ferri {#hw5-leonardo-ferri}
 - **Project Task:** Cinema
