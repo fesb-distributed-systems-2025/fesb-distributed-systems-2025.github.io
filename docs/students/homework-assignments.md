@@ -372,7 +372,7 @@ grade: ++
 
 ## Homework 5
 
-Task [link](/labs/08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
+Task [link](/labs/09.Lab%209%20-%20Microservices/Homework.md)
 
 ### HW5 Josip Bajić {#hw5-josip-bajic}
 - **Project Task:** University

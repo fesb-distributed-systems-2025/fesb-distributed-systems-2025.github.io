@@ -140,10 +140,3 @@ This folder contains auto-generated code that defines: Tables, Columns, Primary 
 Running Update-Database applies these changes and creates the database on your SQL Server.
 
 This process ensures that your database structure always matches your .NET code.
-
-Next Lab:
-**ASP.NET** framework provides developer with build in DI container in which developer can define custom services with one of three lifetime scopes:
-
-- **Singleton:** lifetime of service is through lifetime of application
-- **Scoped:** lifetime of service is scope of one request, so for each request new service will be created
-- **Transient:** each time service is requested, new instance is created

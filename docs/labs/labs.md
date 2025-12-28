@@ -20,4 +20,7 @@
 - [**Lab 8: Data Manage and Migrations**](08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Lesson.md)
   - [Lesson](08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Lesson.md)
   - [Homework](08.Lab%208%20-%20Data%20Manage%20and%20Migrations/Homework.md)
+- [**Lab 9: Microservices**](09.Lab%209%20-%20Microservices/Lesson.md)
+  - [Lesson](09.Lab%209%20-%20Microservices/Lesson.md)
+  - [Homework](09.Lab%209%20-%20Microservices/Homework.md)
 - [**Lab 10: Docker**](10.Lab%2010%20-%20Docker/Lesson.md)
