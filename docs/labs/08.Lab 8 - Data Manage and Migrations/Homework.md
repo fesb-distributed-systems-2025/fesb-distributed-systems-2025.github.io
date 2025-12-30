@@ -8,6 +8,7 @@
 - implement Program.cs file with connection string map and block of code to achieve migrations.
 - start migrations via Package Manager Console
 - make Services and Repositores folders and empty class of each model in them
+- Refer to professor's [repository](https://github.com/fesb-distributed-systems-2025/Zeljko9999-pokazni-project-Student/tree/1.3.0-HW04)
 
 ## Extra Points
 
