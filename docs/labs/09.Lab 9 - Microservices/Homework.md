@@ -15,7 +15,7 @@ Don't forget add Nuget package MediatR (Version="14.0.0") to Application project
 
 :::
 
-MediatR is a .NET library that implements the Mediator design pattern. It helps you: decouple components, send commands/queries/events and avoid direct dependencies between classes
+MediatR is a .NET library that implements the Mediator design pattern. It helps you: decouple components, send commands/queries/events and avoid direct dependencies between classes.
 
 ## Extra Points
 

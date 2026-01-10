@@ -254,7 +254,7 @@ grade: +
 
 grade: -
 
-comment: odrađen HW2, još napraviti HW3
+comment: odrađeno sa zakašnjenjem
 
 ### HW3 Lovre Klarić {#hw3-lovre-klaric}
 - **Project Task:** City
@@ -330,33 +330,31 @@ grade: ++
 ### HW4 Robert Ivasečko {#hw4-robert-ivasecko}
 - **Project Task:** Factory
 
-grade: 
-
-comment: otvoriti pull request
+grade: +
 
 ### HW4 Lovre Klarić {#hw4-lovre-klaric}
 - **Project Task:** City
 
-grade:
+grade: -
 
 comment: Log i user dodati, te pokrenuti migracije (+)
 
 ### HW4 Marin Ljubica {#hw4-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: 
+grade: ++
 
 ### HW4 Josipa Maček {#hw4-josipa-macek}
 - **Project Task:** Weather Station
 
-grade: 
+grade: -
 
 ### HW4 Josip Mandić {#hw4-josip-mandic}
 - **Project Task:** School
 
 grade: 
 
-comment: opravdano-bolest. Odraditi preko praznika
+comment: opravdano-bolest. Odraditi preko praznika. Update: odrađeno sa SQL Lite - ostale neke neponzanice
 
 ### HW4 Toni Mišić {#hw4-toni-misic}
 - **Project Task:** Airport

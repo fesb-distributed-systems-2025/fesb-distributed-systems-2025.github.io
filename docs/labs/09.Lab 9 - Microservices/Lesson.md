@@ -91,6 +91,7 @@ var students = context.Students.ToList();
 ```
 
 EF works with extension methods (LINQ methods). Some of them are: .Where(), .Select(), .OrderBy(), .FirstOrDefault().
+
 Example:
 ```csharp
 var names = students
@@ -104,6 +105,7 @@ var names = students
 The Service Layer is responsible for: handling business logic, performing validation, coordinating between controller and repository.
 
 Controller → Service → Repository → Database
+
 Business logic means: Rules that define how the system should work based on real-world requirements. Each domain has its own business rules.
 
 Examples:
