@@ -86,7 +86,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} FESB in cooperation with Zoraja Consulting.`,
+        copyright: `Copyright © 2026 FESB in cooperation with Zoraja Consulting.`,
       },
       prism: {
         theme: lightCodeTheme,
