@@ -59,6 +59,20 @@
     - [\[HW4\] Josip Mandić](#hw4-josip-mandic)
     - [\[HW4\] Toni Mišić](#hw4-toni-misic)
     - [\[HW4\] Frane Rokov](#hw4-frane-rokov)
+  - [Homework 5](#homework-5)
+    - [\[HW5\] Josip Bajić](#hw5-josip-bajic)
+    - [\[HW5\] Marta Belas](#hw5-marta-belas)
+    - [\[HW5\] Tomislav Brkan](#hw5-tomislav-brkan)
+    - [\[HW5\] Leonardo Ferri](#hw5-leonardo-ferri)
+    - [\[HW5\] Mateo Franjić](#hw5-mateo-franjic)
+    - [\[HW5\] Lovre Gobin](#hw5-lovre-gobin)
+    - [\[HW5\] Robert Ivasečko](#hw5-robert-ivasecko)
+    - [\[HW5\] Lovre Klarić](#hw5-lovre-klaric)
+    - [\[HW5\] Marin Ljubica](#hw5-marin-ljubica)
+    - [\[HW5\] Josipa Maček](#hw5-josipa-macek)
+    - [\[HW5\] Josip Mandić](#hw5-josip-mandic)
+    - [\[HW5\] Toni Mišić](#hw5-toni-misic)
+    - [\[HW5\] Frane Rokov](#hw5-frane-rokov)
 
 
 # Homework tasks and grades
@@ -352,9 +366,7 @@ grade: -
 ### HW4 Josip Mandić {#hw4-josip-mandic}
 - **Project Task:** School
 
-grade: 
-
-comment: opravdano-bolest. Odraditi preko praznika. Update: odrađeno sa SQL Lite - ostale neke neponzanice
+grade: ++
 
 ### HW4 Toni Mišić {#hw4-toni-misic}
 - **Project Task:** Airport
@@ -385,17 +397,19 @@ grade:
 ### HW5 Tomislav Brkan {#hw5-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: +
+grade: 
 
 ### HW5 Leonardo Ferri {#hw5-leonardo-ferri}
 - **Project Task:** Cinema
 
-grade: 
+grade: ++
 
 ### HW5 Mateo Franjić {#hw5-mateo-franjic}
 - **Project Task:** Library
 
-grade: 
+grade: ++
+
+comment: Izv.
 
 ### HW5 Lovre Gobin {#hw5-lovre-gobin}
 - **Project Task:** Taxi Company
