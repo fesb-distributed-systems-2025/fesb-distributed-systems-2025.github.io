@@ -414,7 +414,7 @@ comment: Izv.
 ### HW5 Lovre Gobin {#hw5-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade: 
+grade: ++
 
 ### HW5 Robert Ivasečko {#hw5-robert-ivasecko}
 - **Project Task:** Factory
