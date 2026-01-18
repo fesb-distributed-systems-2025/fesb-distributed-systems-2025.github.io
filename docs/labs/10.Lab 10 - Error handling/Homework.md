@@ -20,6 +20,11 @@ Serilog is a structured logging library for .NET that allows developers to captu
 
 ## Extra Points
 
-Detailer instructions will be soon
+The students that implement the following and meet the criteria will be awarded with extra points:
+- Implement valid error handling and exception logging to all implemented APIs (don't need to non-implemented APIs).
+- Do HW5 in defined time - this means all code is correct till next Lab date. So take care that you have as little as possible mistakes you can. Advice: do your HW earlier so pull request can be reviewed and you can fix your mistakes if have on time.
+- Your code meet the [Coding Convention criteria](/notes/Coding%20Conventions/Coding%20Convention.md)
 
 ## Further Reading
+
+- [How To Replace Exceptions with Result Pattern in .NET](https://antondevtips.com/blog/how-to-replace-exceptions-with-result-pattern-in-dotnet)
