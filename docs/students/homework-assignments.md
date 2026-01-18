@@ -504,6 +504,8 @@ grade:
 
 grade: ++
 
+comment: izbaciti provjeru negativnih IDeva i poruka
+
 ### HW6 Mateo Franjić {#hw6-mateo-franjic}
 - **Project Task:** Library
 
