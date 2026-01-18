@@ -12,7 +12,7 @@
 
 :::caution **IMPORTANT**
 
-Don't forget add Nuget package Serilog.AspNetCore (Version="8.0.3"), Serilog.Settings.Configuration (Version="8.0.4") and Serilog.Sinks.MSSqlServer (Version="9.0.2") to `Api` project.
+Don't forget add Nuget packages Serilog.AspNetCore (Version="8.0.3"), Serilog.Settings.Configuration (Version="8.0.4") and Serilog.Sinks.MSSqlServer (Version="9.0.2") to `Api` project.
 
 :::
 

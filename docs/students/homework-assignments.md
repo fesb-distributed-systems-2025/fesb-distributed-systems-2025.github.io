@@ -73,6 +73,20 @@
     - [\[HW5\] Josip Mandić](#hw5-josip-mandic)
     - [\[HW5\] Toni Mišić](#hw5-toni-misic)
     - [\[HW5\] Frane Rokov](#hw5-frane-rokov)
+  - [Homework 6](#homework-6)
+    - [\[HW6\] Josip Bajić](#hw6-josip-bajic)
+    - [\[HW6\] Marta Belas](#hw6-marta-belas)
+    - [\[HW6\] Tomislav Brkan](#hw6-tomislav-brkan)
+    - [\[HW6\] Leonardo Ferri](#hw6-leonardo-ferri)
+    - [\[HW6\] Mateo Franjić](#hw6-mateo-franjic)
+    - [\[HW6\] Lovre Gobin](#hw6-lovre-gobin)
+    - [\[HW6\] Robert Ivasečko](#hw6-robert-ivasecko)
+    - [\[HW6\] Lovre Klarić](#hw6-lovre-klaric)
+    - [\[HW6\] Marin Ljubica](#hw6-marin-ljubica)
+    - [\[HW6\] Josipa Maček](#hw6-josipa-macek)
+    - [\[HW6\] Josip Mandić](#hw6-josip-mandic)
+    - [\[HW6\] Toni Mišić](#hw6-toni-misic)
+    - [\[HW6\] Frane Rokov](#hw6-frane-rokov)
 
 
 # Homework tasks and grades
@@ -387,17 +401,23 @@ Task [link](/labs/09.Lab%209%20-%20Microservices/Homework.md)
 ### HW5 Josip Bajić {#hw5-josip-bajic}
 - **Project Task:** University
 
-grade: 
+grade: +
+
+comment: polovicna validacija-errori 500, dupliciranje provjera, mjestimice velik ioc
 
 ### HW5 Marta Belas {#hw5-marta-belas}
 - **Project Task:** Hospital
 
-grade: 
+grade: ++
+
+comment: doodati novu migraciju
 
 ### HW5 Tomislav Brkan {#hw5-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: 
+grade: +
+
+comment: nema servise
 
 ### HW5 Leonardo Ferri {#hw5-leonardo-ferri}
 - **Project Task:** Cinema
@@ -421,32 +441,110 @@ grade: ++
 
 grade: 
 
+comment: napraviti za svoj domain
+
 ### HW5 Lovre Klarić {#hw5-lovre-klaric}
 - **Project Task:** City
 
-grade:
+grade: -
 
 ### HW5 Marin Ljubica {#hw5-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: 
+grade: ++
 
 ### HW5 Josipa Maček {#hw5-josipa-macek}
 - **Project Task:** Weather Station
 
-grade: 
+grade: ++
 
 ### HW5 Josip Mandić {#hw5-josip-mandic}
 - **Project Task:** School
 
-grade: 
+grade: +
 
 ### HW5 Toni Mišić {#hw5-toni-misic}
 - **Project Task:** Airport
 
-grade: 
+grade: +
+
+comment: nisu odrađeni svi CRUD apiji u barem jednom kontroleru, korištena je non-full CLear arhitektura, ne može bazičnije - bez validacija
 
 ### HW5 Frane Rokov {#hw5-frane-rokov}
+- **Project Task:** Shelter
+
+grade: ++
+
+comment: izvanredna business logika+repo (detaljna) - razina vise od gradiva, implementirati kontrolere servisima
+
+
+----------------------------------------------------------------------------------------------
+
+## Homework 6
+
+Task [link](/labs/10.Lab%2010%20-%20Error%20Handling/Homework.md)
+
+### HW6 Josip Bajić {#hw6-josip-bajic}
+- **Project Task:** University
+
+grade: 
+
+### HW6 Marta Belas {#hw6-marta-belas}
+- **Project Task:** Hospital
+
+grade: 
+
+### HW6 Tomislav Brkan {#hw6-tomislav-brkan}
+- **Project Task:** Tire Shop
+
+grade: 
+
+### HW6 Leonardo Ferri {#hw6-leonardo-ferri}
+- **Project Task:** Cinema
+
+grade: ++
+
+### HW6 Mateo Franjić {#hw6-mateo-franjic}
+- **Project Task:** Library
+
+grade: 
+
+### HW6 Lovre Gobin {#hw6-lovre-gobin}
+- **Project Task:** Taxi Company
+
+grade: 
+
+### HW6 Robert Ivasečko {#hw6-robert-ivasecko}
+- **Project Task:** Factory
+
+grade: 
+
+### HW6 Lovre Klarić {#hw6-lovre-klaric}
+- **Project Task:** City
+
+grade: 
+
+### HW6 Marin Ljubica {#hw6-marin-ljubica}
+- **Project Task:** Hotel
+
+grade: 
+
+### HW6 Josipa Maček {#hw6-josipa-macek}
+- **Project Task:** Weather Station
+
+grade: 
+
+### HW6 Josip Mandić {#hw6-josip-mandic}
+- **Project Task:** School
+
+grade: 
+
+### HW6 Toni Mišić {#hw6-toni-misic}
+- **Project Task:** Airport
+
+grade: 
+
+### HW6 Frane Rokov {#hw6-frane-rokov}
 - **Project Task:** Shelter
 
 grade: 
