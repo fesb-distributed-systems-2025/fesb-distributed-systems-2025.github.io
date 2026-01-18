@@ -482,7 +482,7 @@ comment: izvanredna business logika+repo (detaljna) - razina vise od gradiva, im
 
 ## Homework 6
 
-Task [link](/docs/labs/Lab%2010%20-%20Error%20handling/Homework.md)
+Task [link](/docs/labs/Lab%2010%20-%20Error%20Handling/Homework.md)
 
 ### HW6 Josip Bajić {#hw6-josip-bajic}
 - **Project Task:** University
