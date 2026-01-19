@@ -25,7 +25,7 @@ Any other validation rule you want to enforce
 
 These are not exceptional in the programming sense — they are normal outcomes you can predict and handle. These cases user can handle if message is enough good explained.
 
-Application handles these with Result<T> and validation lists.
+Application handles these with Result`<T>` and validation lists.
 
 2) System / server failures (unexpected problems)
 
@@ -48,9 +48,9 @@ System exceptions → logged + generic 500 response
 ### **Result pattern**
 
 The Result pattern returning outcomes instead of throwing for validation.
-What Result<T> means?
+What Result`<T>` means?
 
-Result<T> is a wrapper that says:
+Result`<T>` is a wrapper that says:
 
 IsSuccess == true → the operation completed successfully
 
@@ -67,11 +67,11 @@ This is good because:
 
 ValidationResult is basically a “pre-result” used for validation: IsSuccess is true when there are no messages.
 
-ValidationItems collects problems. Then the service converts it to a Result<object>.Failure(...).
+ValidationItems collects problems. Then the service converts it to a Result`<object>`.Failure(...).
 
 Controller stays clean by using one “translator” method.
 
-StatusHandler.HandleResult is extension method that is acting like a small “translator” from Result<T> to HTTP:
+StatusHandler.HandleResult is extension method that is acting like a small “translator” from Result`<T>` to HTTP:
 - If success → 200 OK with value
 - If failure → 400 BadRequest with error items
 
