@@ -487,66 +487,64 @@ Task [link](/docs/labs/Lab%2010%20-%20Error%20handling/Homework)
 ### HW6 Josip Bajić {#hw6-josip-bajic}
 - **Project Task:** University
 
-grade: 
+grade: ++
 
 ### HW6 Marta Belas {#hw6-marta-belas}
 - **Project Task:** Hospital
 
-grade: 
+grade: ++
 
 ### HW6 Tomislav Brkan {#hw6-tomislav-brkan}
 - **Project Task:** Tire Shop
 
-grade: 
+grade: +
 
 ### HW6 Leonardo Ferri {#hw6-leonardo-ferri}
 - **Project Task:** Cinema
 
 grade: ++
 
-comment: izbaciti provjeru negativnih IDeva i poruka
-
 ### HW6 Mateo Franjić {#hw6-mateo-franjic}
 - **Project Task:** Library
 
-grade: 
+grade: ++
 
 ### HW6 Lovre Gobin {#hw6-lovre-gobin}
 - **Project Task:** Taxi Company
 
-grade: 
+grade: ++
 
 ### HW6 Robert Ivasečko {#hw6-robert-ivasecko}
 - **Project Task:** Factory
 
-grade: 
+grade: ++
 
 ### HW6 Lovre Klarić {#hw6-lovre-klaric}
 - **Project Task:** City
 
-grade: 
+grade: -
 
 ### HW6 Marin Ljubica {#hw6-marin-ljubica}
 - **Project Task:** Hotel
 
-grade: 
+grade: ++
 
 ### HW6 Josipa Maček {#hw6-josipa-macek}
 - **Project Task:** Weather Station
 
-grade: 
+grade: -
 
 ### HW6 Josip Mandić {#hw6-josip-mandic}
 - **Project Task:** School
 
-grade: 
+grade: +
 
 ### HW6 Toni Mišić {#hw6-toni-misic}
 - **Project Task:** Airport
 
-grade: 
+grade: +
 
 ### HW6 Frane Rokov {#hw6-frane-rokov}
 - **Project Task:** Shelter
 
-grade: 
+grade: ++
